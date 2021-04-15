@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "app"
+		},
+		{
+			"path": "cliente"
+		},
+		{
+			"path": "comanda"
+		},
+		{
+			"path": "restaurante"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "sindicato"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sindicato.h": "c",
+			"stat.h": "c",
+<<<<<<< HEAD
+			"app.h": "c"
+=======
+			"bitarray.h": "c",
+			"serializer.h": "c",
+			"mman.h": "c",
+			"dirent.h": "c",
+			"txt.h": "c"
+>>>>>>> sindicato
+		}
+	}
+}

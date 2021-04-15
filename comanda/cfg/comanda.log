@@ -1,0 +1,152 @@
+[INFO] 23:45:13:46 cliente/(4514:4514): Se agrego el plato 9 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:13:46 cliente/(4514:4514): Se agrego el plato 10 a Memoria Principal en la posicion 1
+
+[INFO] 23:45:13:47 cliente/(4514:4514): Se agrego el plato 11 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:13:48 cliente/(4514:4514): Se agrego el plato 12 a Memoria Principal en la posicion 3
+
+[INFO] 23:45:13:48 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:48 cliente/(4514:4514): Victima seleccionada para reemplazo: 9
+
+[INFO] 23:45:13:48 cliente/(4514:4514): Se agrego el plato 13 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:13:48 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Victima seleccionada para reemplazo: 10
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Se agrego el plato 9 a Memoria Principal en la posicion 1
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Victima seleccionada para reemplazo: 11
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Se agrego el plato 14 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Victima seleccionada para reemplazo: 12
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Se agrego el plato 10 a Memoria Principal en la posicion 3
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Victima seleccionada para reemplazo: 13
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Se agrego el plato 15 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Victima seleccionada para reemplazo: 14
+
+[INFO] 23:45:13:49 cliente/(4514:4514): Se agrego el plato 12 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Victima seleccionada para reemplazo: 15
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Se agrego el plato 11 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Victima seleccionada para reemplazo: 12
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Se agrego el plato 13 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Victima seleccionada para reemplazo: 9
+
+[INFO] 23:45:13:50 cliente/(4514:4514): Se agrego el plato 14 a Memoria Principal en la posicion 1
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Victima seleccionada para reemplazo: 10
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Se agrego el plato 15 a Memoria Principal en la posicion 3
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Eliminando posicion 1 en Memoria Principal
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Eliminando posicion 3 en Memoria Principal
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Eliminando posicion 2 en Memoria Principal
+
+[INFO] 23:45:13:51 cliente/(4514:4514): Eliminando posicion 0 en Memoria Principal
+
+[INFO] 23:45:45:252 cliente/(4570:4570): Se agrego el plato 9 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:45:255 cliente/(4570:4570): Se agrego el plato 10 a Memoria Principal en la posicion 1
+
+[INFO] 23:45:45:256 cliente/(4570:4570): Se agrego el plato 11 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Se agrego el plato 12 a Memoria Principal en la posicion 3
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Victima seleccionada para reemplazo: 9
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Se agrego el plato 13 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Victima seleccionada para reemplazo: 10
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Se agrego el plato 9 a Memoria Principal en la posicion 1
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Victima seleccionada para reemplazo: 11
+
+[INFO] 23:45:45:260 cliente/(4570:4570): Se agrego el plato 14 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Victima seleccionada para reemplazo: 12
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Se agrego el plato 10 a Memoria Principal en la posicion 3
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Victima seleccionada para reemplazo: 13
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Se agrego el plato 15 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Victima seleccionada para reemplazo: 14
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Se agrego el plato 12 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Victima seleccionada para reemplazo: 15
+
+[INFO] 23:45:45:261 cliente/(4570:4570): Se agrego el plato 11 a Memoria Principal en la posicion 0
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Victima seleccionada para reemplazo: 12
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Se agrego el plato 13 a Memoria Principal en la posicion 2
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Victima seleccionada para reemplazo: 9
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Se agrego el plato 14 a Memoria Principal en la posicion 1
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Comienzo de reemplazo de pagina
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Victima seleccionada para reemplazo: 10
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Se agrego el plato 15 a Memoria Principal en la posicion 3
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Eliminando posicion 1 en Memoria Principal
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Eliminando posicion 3 en Memoria Principal
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Eliminando posicion 2 en Memoria Principal
+
+[INFO] 23:45:45:262 cliente/(4570:4570): Eliminando posicion 0 en Memoria Principal
+

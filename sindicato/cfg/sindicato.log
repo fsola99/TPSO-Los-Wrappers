@@ -1,0 +1,1887 @@
+[INFO] 00:49:15:391 cliente/(21866:21866): Creada carpeta AFIP
+[INFO] 00:49:15:391 cliente/(21866:21866): Creada carpeta Files
+[INFO] 00:49:15:391 cliente/(21866:21866): Creada carpeta Restaurantes
+[INFO] 00:49:15:391 cliente/(21866:21866): Creada carpeta Recetas
+[INFO] 00:49:15:391 cliente/(21866:21866): Creada carpeta Blocks
+[INFO] 00:49:15:391 cliente/(21866:21866): Creada carpeta Metadata
+[INFO] 00:49:15:391 cliente/(21866:21866): Creado archivo metadata.AFIP
+[INFO] 00:49:15:392 cliente/(21866:21866): Datos agregados a metadata.AFIP
+[INFO] 00:49:15:424 cliente/(21866:21866): Bloques creados
+[INFO] 00:49:15:424 cliente/(21866:21866): Archivo de Bitmap creado
+[INFO] 00:49:15:424 cliente/(21866:21866): Leyendo Archivo de Bitmap
+[INFO] 00:49:15:424 cliente/(21866:21866): Bitmap cargado completamente
+[INFO] 00:50:04:411 cliente/(21866:21869): Creada carpeta del restaurante
+[INFO] 00:50:04:411 cliente/(21866:21869): Creado el archivo info.AFIP del restaurante: LaParri
+[INFO] 00:50:04:411 cliente/(21866:21869): El primer bloque desocupado es: 0
+[INFO] 00:50:04:411 cliente/(21866:21869): Se asigno el bloque 0
+[INFO] 00:50:04:411 cliente/(21866:21869): El primer bloque desocupado es: 1
+[INFO] 00:50:04:411 cliente/(21866:21869): El primer bloque desocupado es: 1
+[INFO] 00:50:04:411 cliente/(21866:21869): Se asigno el bloque 1
+[INFO] 00:50:04:411 cliente/(21866:21869): El primer bloque desocupado es: 2
+[INFO] 00:50:04:411 cliente/(21866:21869): El primer bloque desocupado es: 2
+[INFO] 00:50:04:411 cliente/(21866:21869): Se asigno el bloque 2
+[INFO] 00:50:04:411 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip del restaurante: LaParri
+[INFO] 00:50:13:683 cliente/(21866:21869): Creada carpeta del restaurante
+[INFO] 00:50:13:683 cliente/(21866:21869): Creado el archivo info.AFIP del restaurante: GreenLife
+[INFO] 00:50:13:683 cliente/(21866:21869): El primer bloque desocupado es: 3
+[INFO] 00:50:13:683 cliente/(21866:21869): Se asigno el bloque 3
+[INFO] 00:50:13:683 cliente/(21866:21869): El primer bloque desocupado es: 4
+[INFO] 00:50:13:683 cliente/(21866:21869): El primer bloque desocupado es: 4
+[INFO] 00:50:13:683 cliente/(21866:21869): Se asigno el bloque 4
+[INFO] 00:50:13:683 cliente/(21866:21869): El primer bloque desocupado es: 5
+[INFO] 00:50:13:683 cliente/(21866:21869): El primer bloque desocupado es: 5
+[INFO] 00:50:13:683 cliente/(21866:21869): Se asigno el bloque 5
+[INFO] 00:50:13:683 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip del restaurante: GreenLife
+[INFO] 00:50:21:301 cliente/(21866:21869): Creada carpeta del restaurante
+[INFO] 00:50:21:301 cliente/(21866:21869): Creado el archivo info.AFIP del restaurante: MilangaPalace
+[INFO] 00:50:21:301 cliente/(21866:21869): El primer bloque desocupado es: 6
+[INFO] 00:50:21:301 cliente/(21866:21869): Se asigno el bloque 6
+[INFO] 00:50:21:301 cliente/(21866:21869): El primer bloque desocupado es: 7
+[INFO] 00:50:21:301 cliente/(21866:21869): El primer bloque desocupado es: 7
+[INFO] 00:50:21:301 cliente/(21866:21869): Se asigno el bloque 7
+[INFO] 00:50:21:301 cliente/(21866:21869): El primer bloque desocupado es: 8
+[INFO] 00:50:21:301 cliente/(21866:21869): El primer bloque desocupado es: 8
+[INFO] 00:50:21:301 cliente/(21866:21869): Se asigno el bloque 8
+[INFO] 00:50:21:301 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip del restaurante: MilangaPalace
+[INFO] 00:50:38:194 cliente/(21866:21869): Creado el archivo .AFIP de la receta AsadoJugoso
+[INFO] 00:50:38:194 cliente/(21866:21869): El primer bloque desocupado es: 9
+[INFO] 00:50:38:194 cliente/(21866:21869): Se asigno el bloque 9
+[INFO] 00:50:38:194 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip
+[INFO] 00:50:48:40 cliente/(21866:21869): Creado el archivo .AFIP de la receta AsadoSeco
+[INFO] 00:50:48:40 cliente/(21866:21869): El primer bloque desocupado es: 10
+[INFO] 00:50:48:40 cliente/(21866:21869): Se asigno el bloque 10
+[INFO] 00:50:48:40 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip
+[INFO] 00:50:56:259 cliente/(21866:21869): Creado el archivo .AFIP de la receta Choripan
+[INFO] 00:50:56:259 cliente/(21866:21869): El primer bloque desocupado es: 11
+[INFO] 00:50:56:259 cliente/(21866:21869): Se asigno el bloque 11
+[INFO] 00:50:56:268 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip
+[INFO] 00:51:03:724 cliente/(21866:21869): Creado el archivo .AFIP de la receta WokDeVegetales
+[INFO] 00:51:03:724 cliente/(21866:21869): El primer bloque desocupado es: 12
+[INFO] 00:51:03:724 cliente/(21866:21869): Se asigno el bloque 12
+[INFO] 00:51:03:724 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip
+[INFO] 00:51:10:23 cliente/(21866:21869): Creado el archivo .AFIP de la receta TortillaDePapa
+[INFO] 00:51:10:23 cliente/(21866:21869): El primer bloque desocupado es: 13
+[INFO] 00:51:10:23 cliente/(21866:21869): Se asigno el bloque 13
+[INFO] 00:51:10:23 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip
+[INFO] 00:51:15:262 cliente/(21866:21869): Creado el archivo .AFIP de la receta MilaCompleta
+[INFO] 00:51:15:262 cliente/(21866:21869): El primer bloque desocupado es: 14
+[INFO] 00:51:15:262 cliente/(21866:21869): Se asigno el bloque 14
+[INFO] 00:51:15:262 cliente/(21866:21869): Agrega los campos SIZE e INITIAL_BLOCK al archivo info.afip
+[INFO] 00:51:47:597 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:51:47:597 cliente/(21866:22291): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 00:51:47:605 cliente/(21866:22291): La respuesta al mensaje 'Obtener Restaurante' fue: 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1 0
+[INFO] 00:52:02:217 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:02:217 cliente/(21866:22336): Se recibe mensaje 'Guardar Pedido'
+[INFO] 00:52:02:217 cliente/(21866:22336): Creado el archivo .AFIP del pedido 1
+[INFO] 00:52:02:217 cliente/(21866:22336): El primer bloque desocupado es: 15
+[INFO] 00:52:02:217 cliente/(21866:22336): Se asigno el bloque 15
+[INFO] 00:52:02:217 cliente/(21866:22336): El primer bloque desocupado es: 16
+[INFO] 00:52:02:217 cliente/(21866:22336): El primer bloque desocupado es: 16
+[INFO] 00:52:02:217 cliente/(21866:22336): Se asigno el bloque 16
+[INFO] 00:52:02:218 cliente/(21866:22336): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido1.afip
+[INFO] 00:52:02:218 cliente/(21866:22336): Se desasignó el bloque 0
+[INFO] 00:52:02:218 cliente/(21866:22336): Se desasignó el bloque 1
+[INFO] 00:52:02:218 cliente/(21866:22336): Se desasignó el bloque 2
+[INFO] 00:52:02:218 cliente/(21866:22336): El primer bloque desocupado es: 0
+[INFO] 00:52:02:218 cliente/(21866:22336): Se asigno el bloque 0
+[INFO] 00:52:02:218 cliente/(21866:22336): El primer bloque desocupado es: 1
+[INFO] 00:52:02:218 cliente/(21866:22336): El primer bloque desocupado es: 1
+[INFO] 00:52:02:218 cliente/(21866:22336): Se asigno el bloque 1
+[INFO] 00:52:02:218 cliente/(21866:22336): El primer bloque desocupado es: 2
+[INFO] 00:52:02:218 cliente/(21866:22336): El primer bloque desocupado es: 2
+[INFO] 00:52:02:218 cliente/(21866:22336): Se asigno el bloque 2
+[INFO] 00:52:02:218 cliente/(21866:22336): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 00:52:09:735 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:09:735 cliente/(21866:22370): Se recibe mensaje 'Guardar Plato'
+[INFO] 00:52:09:741 cliente/(21866:22370): Se desasignó el bloque 15
+[INFO] 00:52:09:741 cliente/(21866:22370): Se desasignó el bloque 16
+[INFO] 00:52:09:741 cliente/(21866:22370): El primer bloque desocupado es: 15
+[INFO] 00:52:09:741 cliente/(21866:22370): Se asigno el bloque 15
+[INFO] 00:52:09:741 cliente/(21866:22370): El primer bloque desocupado es: 16
+[INFO] 00:52:09:741 cliente/(21866:22370): El primer bloque desocupado es: 16
+[INFO] 00:52:09:741 cliente/(21866:22370): Se asigno el bloque 16
+[INFO] 00:52:09:741 cliente/(21866:22370): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 00:52:15:193 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:15:193 cliente/(21866:22381): Se recibe mensaje 'Guardar Plato'
+[INFO] 00:52:15:193 cliente/(21866:22381): Se desasignó el bloque 15
+[INFO] 00:52:15:193 cliente/(21866:22381): Se desasignó el bloque 16
+[INFO] 00:52:15:193 cliente/(21866:22381): El primer bloque desocupado es: 15
+[INFO] 00:52:15:193 cliente/(21866:22381): Se asigno el bloque 15
+[INFO] 00:52:15:193 cliente/(21866:22381): El primer bloque desocupado es: 16
+[INFO] 00:52:15:193 cliente/(21866:22381): El primer bloque desocupado es: 16
+[INFO] 00:52:15:193 cliente/(21866:22381): Se asigno el bloque 16
+[INFO] 00:52:15:194 cliente/(21866:22381): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 00:52:15:893 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:15:893 cliente/(21866:22389): Se recibe mensaje 'Guardar Plato'
+[INFO] 00:52:15:893 cliente/(21866:22389): Se desasignó el bloque 15
+[INFO] 00:52:15:893 cliente/(21866:22389): Se desasignó el bloque 16
+[INFO] 00:52:15:893 cliente/(21866:22389): El primer bloque desocupado es: 15
+[INFO] 00:52:15:893 cliente/(21866:22389): Se asigno el bloque 15
+[INFO] 00:52:15:893 cliente/(21866:22389): El primer bloque desocupado es: 16
+[INFO] 00:52:15:893 cliente/(21866:22389): El primer bloque desocupado es: 16
+[INFO] 00:52:15:893 cliente/(21866:22389): Se asigno el bloque 16
+[INFO] 00:52:15:894 cliente/(21866:22389): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 00:52:16:798 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:16:798 cliente/(21866:22397): Se recibe mensaje 'Guardar Plato'
+[INFO] 00:52:16:798 cliente/(21866:22397): Se desasignó el bloque 15
+[INFO] 00:52:16:798 cliente/(21866:22397): Se desasignó el bloque 16
+[INFO] 00:52:16:798 cliente/(21866:22397): El primer bloque desocupado es: 15
+[INFO] 00:52:16:798 cliente/(21866:22397): Se asigno el bloque 15
+[INFO] 00:52:16:798 cliente/(21866:22397): El primer bloque desocupado es: 16
+[INFO] 00:52:16:798 cliente/(21866:22397): El primer bloque desocupado es: 16
+[INFO] 00:52:16:798 cliente/(21866:22397): Se asigno el bloque 16
+[INFO] 00:52:16:799 cliente/(21866:22397): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 00:52:27:794 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:27:794 cliente/(21866:22409): Se recibe mensaje 'Guardar Plato'
+[INFO] 00:52:27:794 cliente/(21866:22409): Se desasignó el bloque 15
+[INFO] 00:52:27:794 cliente/(21866:22409): Se desasignó el bloque 16
+[INFO] 00:52:27:794 cliente/(21866:22409): El primer bloque desocupado es: 15
+[INFO] 00:52:27:795 cliente/(21866:22409): Se asigno el bloque 15
+[INFO] 00:52:27:795 cliente/(21866:22409): El primer bloque desocupado es: 16
+[INFO] 00:52:27:795 cliente/(21866:22409): El primer bloque desocupado es: 16
+[INFO] 00:52:27:795 cliente/(21866:22409): Se asigno el bloque 16
+[INFO] 00:52:27:795 cliente/(21866:22409): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 00:52:33:602 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:33:602 cliente/(21866:22437): Se recibe mensaje 'Guardar Plato'
+[INFO] 00:52:33:616 cliente/(21866:22437): Se desasignó el bloque 15
+[INFO] 00:52:33:616 cliente/(21866:22437): Se desasignó el bloque 16
+[INFO] 00:52:33:616 cliente/(21866:22437): El primer bloque desocupado es: 15
+[INFO] 00:52:33:616 cliente/(21866:22437): Se asigno el bloque 15
+[INFO] 00:52:33:616 cliente/(21866:22437): El primer bloque desocupado es: 16
+[INFO] 00:52:33:616 cliente/(21866:22437): El primer bloque desocupado es: 16
+[INFO] 00:52:33:616 cliente/(21866:22437): Se asigno el bloque 16
+[INFO] 00:52:33:616 cliente/(21866:22437): El primer bloque desocupado es: 17
+[INFO] 00:52:33:616 cliente/(21866:22437): El primer bloque desocupado es: 17
+[INFO] 00:52:33:616 cliente/(21866:22437): Se asigno el bloque 17
+[INFO] 00:52:33:617 cliente/(21866:22437): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 00:52:39:213 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:39:213 cliente/(21866:22446): Se recibe mensaje 'Obtener Pedido'
+[INFO] 00:52:39:228 cliente/(21866:22446): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [Choripan,AsadoJugoso,AsadoSeco] [4,1,1] [0,0,0] 900
+[INFO] 00:52:39:228 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:39:228 cliente/(21866:22447): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 00:52:39:229 cliente/(21866:22447): Se desasignó el bloque 15
+[INFO] 00:52:39:229 cliente/(21866:22447): Se desasignó el bloque 16
+[INFO] 00:52:39:229 cliente/(21866:22447): Se desasignó el bloque 17
+[INFO] 00:52:39:229 cliente/(21866:22447): El primer bloque desocupado es: 15
+[INFO] 00:52:39:229 cliente/(21866:22447): Se asigno el bloque 15
+[INFO] 00:52:39:229 cliente/(21866:22447): El primer bloque desocupado es: 16
+[INFO] 00:52:39:229 cliente/(21866:22447): El primer bloque desocupado es: 16
+[INFO] 00:52:39:229 cliente/(21866:22447): Se asigno el bloque 16
+[INFO] 00:52:39:229 cliente/(21866:22447): El primer bloque desocupado es: 17
+[INFO] 00:52:39:229 cliente/(21866:22447): El primer bloque desocupado es: 17
+[INFO] 00:52:39:229 cliente/(21866:22447): Se asigno el bloque 17
+[INFO] 00:52:39:229 cliente/(21866:22447): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 00:52:39:229 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:39:229 cliente/(21866:22451): Se recibe mensaje 'Obtener Receta'
+[INFO] 00:52:39:235 cliente/(21866:22451): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [1,2,1]
+[INFO] 00:52:39:235 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:39:236 cliente/(21866:22453): Se recibe mensaje 'Obtener Receta'
+[INFO] 00:52:39:236 cliente/(21866:22453): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,3,2]
+[INFO] 00:52:39:236 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:39:236 cliente/(21866:22455): Se recibe mensaje 'Obtener Receta'
+[INFO] 00:52:39:236 cliente/(21866:22455): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,10,2]
+[INFO] 00:52:59:237 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:52:59:237 cliente/(21866:22470): Se recibe mensaje 'Plato Listo'
+[INFO] 00:52:59:248 cliente/(21866:22470): Se desasignó el bloque 15
+[INFO] 00:52:59:248 cliente/(21866:22470): Se desasignó el bloque 16
+[INFO] 00:52:59:248 cliente/(21866:22470): Se desasignó el bloque 17
+[INFO] 00:52:59:248 cliente/(21866:22470): El primer bloque desocupado es: 15
+[INFO] 00:52:59:248 cliente/(21866:22470): Se asigno el bloque 15
+[INFO] 00:52:59:248 cliente/(21866:22470): El primer bloque desocupado es: 16
+[INFO] 00:52:59:248 cliente/(21866:22470): El primer bloque desocupado es: 16
+[INFO] 00:52:59:248 cliente/(21866:22470): Se asigno el bloque 16
+[INFO] 00:52:59:248 cliente/(21866:22470): El primer bloque desocupado es: 17
+[INFO] 00:52:59:248 cliente/(21866:22470): El primer bloque desocupado es: 17
+[INFO] 00:52:59:248 cliente/(21866:22470): Se asigno el bloque 17
+[INFO] 00:52:59:249 cliente/(21866:22470): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 00:53:19:237 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:53:19:237 cliente/(21866:22502): Se recibe mensaje 'Plato Listo'
+[INFO] 00:53:19:253 cliente/(21866:22502): Se desasignó el bloque 15
+[INFO] 00:53:19:253 cliente/(21866:22502): Se desasignó el bloque 16
+[INFO] 00:53:19:253 cliente/(21866:22502): Se desasignó el bloque 17
+[INFO] 00:53:19:253 cliente/(21866:22502): El primer bloque desocupado es: 15
+[INFO] 00:53:19:253 cliente/(21866:22502): Se asigno el bloque 15
+[INFO] 00:53:19:253 cliente/(21866:22502): El primer bloque desocupado es: 16
+[INFO] 00:53:19:253 cliente/(21866:22502): El primer bloque desocupado es: 16
+[INFO] 00:53:19:253 cliente/(21866:22502): Se asigno el bloque 16
+[INFO] 00:53:19:253 cliente/(21866:22502): El primer bloque desocupado es: 17
+[INFO] 00:53:19:253 cliente/(21866:22502): El primer bloque desocupado es: 17
+[INFO] 00:53:19:253 cliente/(21866:22502): Se asigno el bloque 17
+[INFO] 00:53:19:254 cliente/(21866:22502): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 00:54:19:238 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:54:19:238 cliente/(21866:22552): Se recibe mensaje 'Plato Listo'
+[INFO] 00:54:19:248 cliente/(21866:22552): Se desasignó el bloque 15
+[INFO] 00:54:19:248 cliente/(21866:22552): Se desasignó el bloque 16
+[INFO] 00:54:19:248 cliente/(21866:22552): Se desasignó el bloque 17
+[INFO] 00:54:19:248 cliente/(21866:22552): El primer bloque desocupado es: 15
+[INFO] 00:54:19:248 cliente/(21866:22552): Se asigno el bloque 15
+[INFO] 00:54:19:248 cliente/(21866:22552): El primer bloque desocupado es: 16
+[INFO] 00:54:19:248 cliente/(21866:22552): El primer bloque desocupado es: 16
+[INFO] 00:54:19:248 cliente/(21866:22552): Se asigno el bloque 16
+[INFO] 00:54:19:248 cliente/(21866:22552): El primer bloque desocupado es: 17
+[INFO] 00:54:19:248 cliente/(21866:22552): El primer bloque desocupado es: 17
+[INFO] 00:54:19:248 cliente/(21866:22552): Se asigno el bloque 17
+[INFO] 00:54:19:249 cliente/(21866:22552): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 00:54:24:249 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:54:24:249 cliente/(21866:22585): Se recibe mensaje 'Plato Listo'
+[INFO] 00:54:24:250 cliente/(21866:22585): Se desasignó el bloque 15
+[INFO] 00:54:24:250 cliente/(21866:22585): Se desasignó el bloque 16
+[INFO] 00:54:24:250 cliente/(21866:22585): Se desasignó el bloque 17
+[INFO] 00:54:24:250 cliente/(21866:22585): El primer bloque desocupado es: 15
+[INFO] 00:54:24:250 cliente/(21866:22585): Se asigno el bloque 15
+[INFO] 00:54:24:250 cliente/(21866:22585): El primer bloque desocupado es: 16
+[INFO] 00:54:24:250 cliente/(21866:22585): El primer bloque desocupado es: 16
+[INFO] 00:54:24:250 cliente/(21866:22585): Se asigno el bloque 16
+[INFO] 00:54:24:250 cliente/(21866:22585): El primer bloque desocupado es: 17
+[INFO] 00:54:24:250 cliente/(21866:22585): El primer bloque desocupado es: 17
+[INFO] 00:54:24:250 cliente/(21866:22585): Se asigno el bloque 17
+[INFO] 00:54:24:250 cliente/(21866:22585): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 00:54:44:251 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:54:44:251 cliente/(21866:22599): Se recibe mensaje 'Plato Listo'
+[INFO] 00:54:44:260 cliente/(21866:22599): Se desasignó el bloque 15
+[INFO] 00:54:44:260 cliente/(21866:22599): Se desasignó el bloque 16
+[INFO] 00:54:44:260 cliente/(21866:22599): Se desasignó el bloque 17
+[INFO] 00:54:44:260 cliente/(21866:22599): El primer bloque desocupado es: 15
+[INFO] 00:54:44:260 cliente/(21866:22599): Se asigno el bloque 15
+[INFO] 00:54:44:260 cliente/(21866:22599): El primer bloque desocupado es: 16
+[INFO] 00:54:44:260 cliente/(21866:22599): El primer bloque desocupado es: 16
+[INFO] 00:54:44:260 cliente/(21866:22599): Se asigno el bloque 16
+[INFO] 00:54:44:260 cliente/(21866:22599): El primer bloque desocupado es: 17
+[INFO] 00:54:44:260 cliente/(21866:22599): El primer bloque desocupado es: 17
+[INFO] 00:54:44:260 cliente/(21866:22599): Se asigno el bloque 17
+[INFO] 00:54:44:261 cliente/(21866:22599): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 00:55:04:262 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:55:04:262 cliente/(21866:22638): Se recibe mensaje 'Plato Listo'
+[INFO] 00:55:04:422 cliente/(21866:22638): Se desasignó el bloque 15
+[INFO] 00:55:04:422 cliente/(21866:22638): Se desasignó el bloque 16
+[INFO] 00:55:04:422 cliente/(21866:22638): Se desasignó el bloque 17
+[INFO] 00:55:04:422 cliente/(21866:22638): El primer bloque desocupado es: 15
+[INFO] 00:55:04:422 cliente/(21866:22638): Se asigno el bloque 15
+[INFO] 00:55:04:422 cliente/(21866:22638): El primer bloque desocupado es: 16
+[INFO] 00:55:04:422 cliente/(21866:22638): El primer bloque desocupado es: 16
+[INFO] 00:55:04:422 cliente/(21866:22638): Se asigno el bloque 16
+[INFO] 00:55:04:422 cliente/(21866:22638): El primer bloque desocupado es: 17
+[INFO] 00:55:04:422 cliente/(21866:22638): El primer bloque desocupado es: 17
+[INFO] 00:55:04:422 cliente/(21866:22638): Se asigno el bloque 17
+[INFO] 00:55:04:582 cliente/(21866:22638): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 00:55:04:582 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:55:04:583 cliente/(21866:22662): Se recibe mensaje 'Terminar Pedido'
+[INFO] 00:55:04:583 cliente/(21866:22662): Se desasignó el bloque 15
+[INFO] 00:55:04:583 cliente/(21866:22662): Se desasignó el bloque 16
+[INFO] 00:55:04:583 cliente/(21866:22662): Se desasignó el bloque 17
+[INFO] 00:55:04:583 cliente/(21866:22662): El primer bloque desocupado es: 15
+[INFO] 00:55:04:583 cliente/(21866:22662): Se asigno el bloque 15
+[INFO] 00:55:04:583 cliente/(21866:22662): El primer bloque desocupado es: 16
+[INFO] 00:55:04:583 cliente/(21866:22662): El primer bloque desocupado es: 16
+[INFO] 00:55:04:583 cliente/(21866:22662): Se asigno el bloque 16
+[INFO] 00:55:04:583 cliente/(21866:22662): El primer bloque desocupado es: 17
+[INFO] 00:55:04:583 cliente/(21866:22662): El primer bloque desocupado es: 17
+[INFO] 00:55:04:583 cliente/(21866:22662): Se asigno el bloque 17
+[INFO] 00:55:04:608 cliente/(21866:22662): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 00:57:12:301 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:57:12:301 cliente/(21866:22856): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 00:57:12:301 cliente/(21866:22856): La respuesta al mensaje 'Obtener Restaurante' fue: 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1 1
+[INFO] 00:57:50:651 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:57:50:651 cliente/(21866:22906): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 00:57:50:651 cliente/(21866:22906): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1 0
+[INFO] 00:58:04:577 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 00:58:04:578 cliente/(21866:22956): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 00:58:04:578 cliente/(21866:22956): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [5,5] [] [MilaCompleta] [200] 1 0
+[INFO] 01:01:15:386 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:01:15:386 cliente/(21866:23092): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:01:15:386 cliente/(21866:23092): Creado el archivo .AFIP del pedido 1
+[INFO] 01:01:15:386 cliente/(21866:23092): El primer bloque desocupado es: 18
+[INFO] 01:01:15:386 cliente/(21866:23092): Se asigno el bloque 18
+[INFO] 01:01:15:386 cliente/(21866:23092): El primer bloque desocupado es: 19
+[INFO] 01:01:15:386 cliente/(21866:23092): El primer bloque desocupado es: 19
+[INFO] 01:01:15:386 cliente/(21866:23092): Se asigno el bloque 19
+[INFO] 01:01:15:387 cliente/(21866:23092): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido1.afip
+[INFO] 01:01:15:387 cliente/(21866:23092): Se desasignó el bloque 6
+[INFO] 01:01:15:387 cliente/(21866:23092): Se desasignó el bloque 7
+[INFO] 01:01:15:387 cliente/(21866:23092): Se desasignó el bloque 8
+[INFO] 01:01:15:387 cliente/(21866:23092): El primer bloque desocupado es: 6
+[INFO] 01:01:15:387 cliente/(21866:23092): Se asigno el bloque 6
+[INFO] 01:01:15:387 cliente/(21866:23092): El primer bloque desocupado es: 7
+[INFO] 01:01:15:387 cliente/(21866:23092): El primer bloque desocupado es: 7
+[INFO] 01:01:15:387 cliente/(21866:23092): Se asigno el bloque 7
+[INFO] 01:01:15:387 cliente/(21866:23092): El primer bloque desocupado es: 8
+[INFO] 01:01:15:387 cliente/(21866:23092): El primer bloque desocupado es: 8
+[INFO] 01:01:15:387 cliente/(21866:23092): Se asigno el bloque 8
+[INFO] 01:01:15:388 cliente/(21866:23092): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:01:20:90 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:01:20:90 cliente/(21866:23133): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:01:20:90 cliente/(21866:23133): Creado el archivo .AFIP del pedido 1
+[INFO] 01:01:20:90 cliente/(21866:23133): El primer bloque desocupado es: 20
+[INFO] 01:01:20:90 cliente/(21866:23133): Se asigno el bloque 20
+[INFO] 01:01:20:90 cliente/(21866:23133): El primer bloque desocupado es: 21
+[INFO] 01:01:20:90 cliente/(21866:23133): El primer bloque desocupado es: 21
+[INFO] 01:01:20:90 cliente/(21866:23133): Se asigno el bloque 21
+[INFO] 01:01:20:90 cliente/(21866:23133): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido1.afip
+[INFO] 01:01:20:91 cliente/(21866:23133): Se desasignó el bloque 3
+[INFO] 01:01:20:91 cliente/(21866:23133): Se desasignó el bloque 4
+[INFO] 01:01:20:91 cliente/(21866:23133): Se desasignó el bloque 5
+[INFO] 01:01:20:91 cliente/(21866:23133): El primer bloque desocupado es: 3
+[INFO] 01:01:20:91 cliente/(21866:23133): Se asigno el bloque 3
+[INFO] 01:01:20:91 cliente/(21866:23133): El primer bloque desocupado es: 4
+[INFO] 01:01:20:91 cliente/(21866:23133): El primer bloque desocupado es: 4
+[INFO] 01:01:20:91 cliente/(21866:23133): Se asigno el bloque 4
+[INFO] 01:01:20:91 cliente/(21866:23133): El primer bloque desocupado es: 5
+[INFO] 01:01:20:91 cliente/(21866:23133): El primer bloque desocupado es: 5
+[INFO] 01:01:20:91 cliente/(21866:23133): Se asigno el bloque 5
+[INFO] 01:01:20:91 cliente/(21866:23133): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:01:24:219 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:01:24:219 cliente/(21866:23142): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:01:24:219 cliente/(21866:23142): Creado el archivo .AFIP del pedido 2
+[INFO] 01:01:24:219 cliente/(21866:23142): El primer bloque desocupado es: 22
+[INFO] 01:01:24:219 cliente/(21866:23142): Se asigno el bloque 22
+[INFO] 01:01:24:219 cliente/(21866:23142): El primer bloque desocupado es: 23
+[INFO] 01:01:24:219 cliente/(21866:23142): El primer bloque desocupado es: 23
+[INFO] 01:01:24:219 cliente/(21866:23142): Se asigno el bloque 23
+[INFO] 01:01:24:220 cliente/(21866:23142): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido2.afip
+[INFO] 01:01:24:220 cliente/(21866:23142): Se desasignó el bloque 0
+[INFO] 01:01:24:220 cliente/(21866:23142): Se desasignó el bloque 1
+[INFO] 01:01:24:220 cliente/(21866:23142): Se desasignó el bloque 2
+[INFO] 01:01:24:220 cliente/(21866:23142): El primer bloque desocupado es: 0
+[INFO] 01:01:24:220 cliente/(21866:23142): Se asigno el bloque 0
+[INFO] 01:01:24:220 cliente/(21866:23142): El primer bloque desocupado es: 1
+[INFO] 01:01:24:220 cliente/(21866:23142): El primer bloque desocupado es: 1
+[INFO] 01:01:24:220 cliente/(21866:23142): Se asigno el bloque 1
+[INFO] 01:01:24:220 cliente/(21866:23142): El primer bloque desocupado es: 2
+[INFO] 01:01:24:220 cliente/(21866:23142): El primer bloque desocupado es: 2
+[INFO] 01:01:24:221 cliente/(21866:23142): Se asigno el bloque 2
+[INFO] 01:01:24:221 cliente/(21866:23142): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:01:47:563 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:01:47:563 cliente/(21866:23156): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:01:47:576 cliente/(21866:23156): Se desasignó el bloque 18
+[INFO] 01:01:47:576 cliente/(21866:23156): Se desasignó el bloque 19
+[INFO] 01:01:47:576 cliente/(21866:23156): El primer bloque desocupado es: 18
+[INFO] 01:01:47:576 cliente/(21866:23156): Se asigno el bloque 18
+[INFO] 01:01:47:576 cliente/(21866:23156): El primer bloque desocupado es: 19
+[INFO] 01:01:47:576 cliente/(21866:23156): El primer bloque desocupado es: 19
+[INFO] 01:01:47:576 cliente/(21866:23156): Se asigno el bloque 19
+[INFO] 01:01:47:577 cliente/(21866:23156): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:02:05:701 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:02:05:701 cliente/(21866:23186): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:02:05:723 cliente/(21866:23186): Se desasignó el bloque 20
+[INFO] 01:02:05:723 cliente/(21866:23186): Se desasignó el bloque 21
+[INFO] 01:02:05:723 cliente/(21866:23186): El primer bloque desocupado es: 20
+[INFO] 01:02:05:723 cliente/(21866:23186): Se asigno el bloque 20
+[INFO] 01:02:05:723 cliente/(21866:23186): El primer bloque desocupado es: 21
+[INFO] 01:02:05:723 cliente/(21866:23186): El primer bloque desocupado es: 21
+[INFO] 01:02:05:723 cliente/(21866:23186): Se asigno el bloque 21
+[INFO] 01:02:05:723 cliente/(21866:23186): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:02:37:564 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:02:37:564 cliente/(21866:23230): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:02:37:575 cliente/(21866:23230): Se desasignó el bloque 20
+[INFO] 01:02:37:575 cliente/(21866:23230): Se desasignó el bloque 21
+[INFO] 01:02:37:575 cliente/(21866:23230): El primer bloque desocupado es: 20
+[INFO] 01:02:37:575 cliente/(21866:23230): Se asigno el bloque 20
+[INFO] 01:02:37:575 cliente/(21866:23230): El primer bloque desocupado es: 21
+[INFO] 01:02:37:575 cliente/(21866:23230): El primer bloque desocupado es: 21
+[INFO] 01:02:37:575 cliente/(21866:23230): Se asigno el bloque 21
+[INFO] 01:02:37:575 cliente/(21866:23230): El primer bloque desocupado es: 24
+[INFO] 01:02:37:575 cliente/(21866:23230): El primer bloque desocupado es: 24
+[INFO] 01:02:37:576 cliente/(21866:23230): Se asigno el bloque 24
+[INFO] 01:02:37:576 cliente/(21866:23230): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:02:39:981 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:02:39:981 cliente/(21866:23263): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:02:40:45 cliente/(21866:23263): Se desasignó el bloque 20
+[INFO] 01:02:40:45 cliente/(21866:23263): Se desasignó el bloque 21
+[INFO] 01:02:40:45 cliente/(21866:23263): Se desasignó el bloque 24
+[INFO] 01:02:40:45 cliente/(21866:23263): El primer bloque desocupado es: 20
+[INFO] 01:02:40:45 cliente/(21866:23263): Se asigno el bloque 20
+[INFO] 01:02:40:45 cliente/(21866:23263): El primer bloque desocupado es: 21
+[INFO] 01:02:40:45 cliente/(21866:23263): El primer bloque desocupado es: 21
+[INFO] 01:02:40:45 cliente/(21866:23263): Se asigno el bloque 21
+[INFO] 01:02:40:45 cliente/(21866:23263): El primer bloque desocupado es: 24
+[INFO] 01:02:40:45 cliente/(21866:23263): El primer bloque desocupado es: 24
+[INFO] 01:02:40:45 cliente/(21866:23263): Se asigno el bloque 24
+[INFO] 01:02:40:46 cliente/(21866:23263): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:02:55:913 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:02:55:913 cliente/(21866:23273): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:02:55:914 cliente/(21866:23273): Se desasignó el bloque 22
+[INFO] 01:02:55:914 cliente/(21866:23273): Se desasignó el bloque 23
+[INFO] 01:02:55:914 cliente/(21866:23273): El primer bloque desocupado es: 22
+[INFO] 01:02:55:914 cliente/(21866:23273): Se asigno el bloque 22
+[INFO] 01:02:55:914 cliente/(21866:23273): El primer bloque desocupado es: 23
+[INFO] 01:02:55:914 cliente/(21866:23273): El primer bloque desocupado es: 23
+[INFO] 01:02:55:914 cliente/(21866:23273): Se asigno el bloque 23
+[INFO] 01:02:55:914 cliente/(21866:23273): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:03:06:795 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:06:795 cliente/(21866:23300): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:03:06:815 cliente/(21866:23300): Se desasignó el bloque 22
+[INFO] 01:03:06:815 cliente/(21866:23300): Se desasignó el bloque 23
+[INFO] 01:03:06:815 cliente/(21866:23300): El primer bloque desocupado es: 22
+[INFO] 01:03:06:815 cliente/(21866:23300): Se asigno el bloque 22
+[INFO] 01:03:06:815 cliente/(21866:23300): El primer bloque desocupado es: 23
+[INFO] 01:03:06:815 cliente/(21866:23300): El primer bloque desocupado es: 23
+[INFO] 01:03:06:815 cliente/(21866:23300): Se asigno el bloque 23
+[INFO] 01:03:06:816 cliente/(21866:23300): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:03:07:548 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:07:548 cliente/(21866:23325): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:03:07:548 cliente/(21866:23325): Se desasignó el bloque 22
+[INFO] 01:03:07:548 cliente/(21866:23325): Se desasignó el bloque 23
+[INFO] 01:03:07:548 cliente/(21866:23325): El primer bloque desocupado es: 22
+[INFO] 01:03:07:549 cliente/(21866:23325): Se asigno el bloque 22
+[INFO] 01:03:07:549 cliente/(21866:23325): El primer bloque desocupado es: 23
+[INFO] 01:03:07:549 cliente/(21866:23325): El primer bloque desocupado es: 23
+[INFO] 01:03:07:549 cliente/(21866:23325): Se asigno el bloque 23
+[INFO] 01:03:07:549 cliente/(21866:23325): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:03:08:654 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:08:654 cliente/(21866:23333): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:03:08:655 cliente/(21866:23333): Se desasignó el bloque 22
+[INFO] 01:03:08:655 cliente/(21866:23333): Se desasignó el bloque 23
+[INFO] 01:03:08:655 cliente/(21866:23333): El primer bloque desocupado es: 22
+[INFO] 01:03:08:655 cliente/(21866:23333): Se asigno el bloque 22
+[INFO] 01:03:08:655 cliente/(21866:23333): El primer bloque desocupado es: 23
+[INFO] 01:03:08:655 cliente/(21866:23333): El primer bloque desocupado es: 23
+[INFO] 01:03:08:655 cliente/(21866:23333): Se asigno el bloque 23
+[INFO] 01:03:08:655 cliente/(21866:23333): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:03:14:131 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:14:131 cliente/(21866:23344): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:03:14:132 cliente/(21866:23344): Se desasignó el bloque 22
+[INFO] 01:03:14:132 cliente/(21866:23344): Se desasignó el bloque 23
+[INFO] 01:03:14:132 cliente/(21866:23344): El primer bloque desocupado es: 22
+[INFO] 01:03:14:132 cliente/(21866:23344): Se asigno el bloque 22
+[INFO] 01:03:14:132 cliente/(21866:23344): El primer bloque desocupado es: 23
+[INFO] 01:03:14:132 cliente/(21866:23344): El primer bloque desocupado es: 23
+[INFO] 01:03:14:132 cliente/(21866:23344): Se asigno el bloque 23
+[INFO] 01:03:14:132 cliente/(21866:23344): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:03:22:529 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:22:529 cliente/(21866:23353): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:03:22:530 cliente/(21866:23353): Se desasignó el bloque 22
+[INFO] 01:03:22:530 cliente/(21866:23353): Se desasignó el bloque 23
+[INFO] 01:03:22:530 cliente/(21866:23353): El primer bloque desocupado es: 22
+[INFO] 01:03:22:530 cliente/(21866:23353): Se asigno el bloque 22
+[INFO] 01:03:22:530 cliente/(21866:23353): El primer bloque desocupado es: 23
+[INFO] 01:03:22:530 cliente/(21866:23353): El primer bloque desocupado es: 23
+[INFO] 01:03:22:530 cliente/(21866:23353): Se asigno el bloque 23
+[INFO] 01:03:22:530 cliente/(21866:23353): El primer bloque desocupado es: 25
+[INFO] 01:03:22:530 cliente/(21866:23353): El primer bloque desocupado es: 25
+[INFO] 01:03:22:530 cliente/(21866:23353): Se asigno el bloque 25
+[INFO] 01:03:22:530 cliente/(21866:23353): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:03:57:378 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:378 cliente/(21866:23375): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:03:57:389 cliente/(21866:23375): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [Choripan,AsadoJugoso,AsadoSeco] [4,1,1] [0,0,0] 900
+[INFO] 01:03:57:389 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:390 cliente/(21866:23376): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:03:57:390 cliente/(21866:23376): Se desasignó el bloque 22
+[INFO] 01:03:57:390 cliente/(21866:23376): Se desasignó el bloque 23
+[INFO] 01:03:57:390 cliente/(21866:23376): Se desasignó el bloque 25
+[INFO] 01:03:57:390 cliente/(21866:23376): El primer bloque desocupado es: 22
+[INFO] 01:03:57:390 cliente/(21866:23376): Se asigno el bloque 22
+[INFO] 01:03:57:390 cliente/(21866:23376): El primer bloque desocupado es: 23
+[INFO] 01:03:57:390 cliente/(21866:23376): El primer bloque desocupado es: 23
+[INFO] 01:03:57:390 cliente/(21866:23376): Se asigno el bloque 23
+[INFO] 01:03:57:390 cliente/(21866:23376): El primer bloque desocupado es: 25
+[INFO] 01:03:57:390 cliente/(21866:23376): El primer bloque desocupado es: 25
+[INFO] 01:03:57:390 cliente/(21866:23376): Se asigno el bloque 25
+[INFO] 01:03:57:390 cliente/(21866:23376): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:03:57:391 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:391 cliente/(21866:23380): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:03:57:391 cliente/(21866:23380): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [1,2,1]
+[INFO] 01:03:57:391 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:392 cliente/(21866:23381): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:03:57:392 cliente/(21866:23381): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,3,2]
+[INFO] 01:03:57:392 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:392 cliente/(21866:23384): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:03:57:392 cliente/(21866:23384): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,10,2]
+[INFO] 01:03:57:796 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:796 cliente/(21866:23416): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:03:57:808 cliente/(21866:23416): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [MilaCompleta] [1] [0] 200
+[INFO] 01:03:57:808 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:808 cliente/(21866:23417): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:03:57:808 cliente/(21866:23417): Se desasignó el bloque 18
+[INFO] 01:03:57:808 cliente/(21866:23417): Se desasignó el bloque 19
+[INFO] 01:03:57:808 cliente/(21866:23417): El primer bloque desocupado es: 18
+[INFO] 01:03:57:808 cliente/(21866:23417): Se asigno el bloque 18
+[INFO] 01:03:57:808 cliente/(21866:23417): El primer bloque desocupado es: 19
+[INFO] 01:03:57:808 cliente/(21866:23417): El primer bloque desocupado es: 19
+[INFO] 01:03:57:808 cliente/(21866:23417): Se asigno el bloque 19
+[INFO] 01:03:57:808 cliente/(21866:23417): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:03:57:809 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:57:809 cliente/(21866:23421): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:03:57:815 cliente/(21866:23421): La respuesta al mensaje 'Obtener Receta' fue: [Empanar,Hornear,Servir] [5,2,1]
+[INFO] 01:03:58:407 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:58:407 cliente/(21866:23426): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:03:58:439 cliente/(21866:23426): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [WokDeVegetales,TortillaDePapa] [1,2] [0,0] 500
+[INFO] 01:03:58:439 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:58:439 cliente/(21866:23427): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:03:58:439 cliente/(21866:23427): Se desasignó el bloque 20
+[INFO] 01:03:58:439 cliente/(21866:23427): Se desasignó el bloque 21
+[INFO] 01:03:58:439 cliente/(21866:23427): Se desasignó el bloque 24
+[INFO] 01:03:58:439 cliente/(21866:23427): El primer bloque desocupado es: 20
+[INFO] 01:03:58:439 cliente/(21866:23427): Se asigno el bloque 20
+[INFO] 01:03:58:439 cliente/(21866:23427): El primer bloque desocupado es: 21
+[INFO] 01:03:58:439 cliente/(21866:23427): El primer bloque desocupado es: 21
+[INFO] 01:03:58:439 cliente/(21866:23427): Se asigno el bloque 21
+[INFO] 01:03:58:439 cliente/(21866:23427): El primer bloque desocupado es: 24
+[INFO] 01:03:58:439 cliente/(21866:23427): El primer bloque desocupado es: 24
+[INFO] 01:03:58:439 cliente/(21866:23427): Se asigno el bloque 24
+[INFO] 01:03:58:440 cliente/(21866:23427): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:03:58:440 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:58:440 cliente/(21866:23430): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:03:58:440 cliente/(21866:23430): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Condimentar,Servir] [3,1,1]
+[INFO] 01:03:58:441 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:03:58:441 cliente/(21866:23431): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:03:58:441 cliente/(21866:23431): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+[INFO] 01:04:05:816 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:04:05:817 cliente/(21866:23443): Se recibe mensaje 'Plato Listo'
+[INFO] 01:04:05:829 cliente/(21866:23443): Se desasignó el bloque 18
+[INFO] 01:04:05:829 cliente/(21866:23443): Se desasignó el bloque 19
+[INFO] 01:04:05:829 cliente/(21866:23443): El primer bloque desocupado es: 18
+[INFO] 01:04:05:829 cliente/(21866:23443): Se asigno el bloque 18
+[INFO] 01:04:05:829 cliente/(21866:23443): El primer bloque desocupado es: 19
+[INFO] 01:04:05:829 cliente/(21866:23443): El primer bloque desocupado es: 19
+[INFO] 01:04:05:829 cliente/(21866:23443): Se asigno el bloque 19
+[INFO] 01:04:05:829 cliente/(21866:23443): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:04:05:829 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:04:05:830 cliente/(21866:23445): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:04:05:830 cliente/(21866:23445): Se desasignó el bloque 18
+[INFO] 01:04:05:830 cliente/(21866:23445): Se desasignó el bloque 19
+[INFO] 01:04:05:830 cliente/(21866:23445): El primer bloque desocupado es: 18
+[INFO] 01:04:05:830 cliente/(21866:23445): Se asigno el bloque 18
+[INFO] 01:04:05:830 cliente/(21866:23445): El primer bloque desocupado es: 19
+[INFO] 01:04:05:830 cliente/(21866:23445): El primer bloque desocupado es: 19
+[INFO] 01:04:05:830 cliente/(21866:23445): Se asigno el bloque 19
+[INFO] 01:04:05:830 cliente/(21866:23445): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:04:17:392 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:04:17:393 cliente/(21866:23473): Se recibe mensaje 'Plato Listo'
+[INFO] 01:04:17:409 cliente/(21866:23473): Se desasignó el bloque 22
+[INFO] 01:04:17:409 cliente/(21866:23473): Se desasignó el bloque 23
+[INFO] 01:04:17:409 cliente/(21866:23473): Se desasignó el bloque 25
+[INFO] 01:04:17:409 cliente/(21866:23473): El primer bloque desocupado es: 22
+[INFO] 01:04:17:409 cliente/(21866:23473): Se asigno el bloque 22
+[INFO] 01:04:17:409 cliente/(21866:23473): El primer bloque desocupado es: 23
+[INFO] 01:04:17:409 cliente/(21866:23473): El primer bloque desocupado es: 23
+[INFO] 01:04:17:409 cliente/(21866:23473): Se asigno el bloque 23
+[INFO] 01:04:17:409 cliente/(21866:23473): El primer bloque desocupado es: 25
+[INFO] 01:04:17:409 cliente/(21866:23473): El primer bloque desocupado es: 25
+[INFO] 01:04:17:409 cliente/(21866:23473): Se asigno el bloque 25
+[INFO] 01:04:17:409 cliente/(21866:23473): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:04:37:393 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:04:37:393 cliente/(21866:23510): Se recibe mensaje 'Plato Listo'
+[INFO] 01:04:37:413 cliente/(21866:23510): Se desasignó el bloque 22
+[INFO] 01:04:37:413 cliente/(21866:23510): Se desasignó el bloque 23
+[INFO] 01:04:37:413 cliente/(21866:23510): Se desasignó el bloque 25
+[INFO] 01:04:37:413 cliente/(21866:23510): El primer bloque desocupado es: 22
+[INFO] 01:04:37:413 cliente/(21866:23510): Se asigno el bloque 22
+[INFO] 01:04:37:413 cliente/(21866:23510): El primer bloque desocupado es: 23
+[INFO] 01:04:37:413 cliente/(21866:23510): El primer bloque desocupado es: 23
+[INFO] 01:04:37:413 cliente/(21866:23510): Se asigno el bloque 23
+[INFO] 01:04:37:413 cliente/(21866:23510): El primer bloque desocupado es: 25
+[INFO] 01:04:37:413 cliente/(21866:23510): El primer bloque desocupado es: 25
+[INFO] 01:04:37:413 cliente/(21866:23510): Se asigno el bloque 25
+[INFO] 01:04:37:413 cliente/(21866:23510): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:04:43:441 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:04:43:442 cliente/(21866:23534): Se recibe mensaje 'Plato Listo'
+[INFO] 01:04:43:448 cliente/(21866:23534): Se desasignó el bloque 20
+[INFO] 01:04:43:448 cliente/(21866:23534): Se desasignó el bloque 21
+[INFO] 01:04:43:448 cliente/(21866:23534): Se desasignó el bloque 24
+[INFO] 01:04:43:448 cliente/(21866:23534): El primer bloque desocupado es: 20
+[INFO] 01:04:43:448 cliente/(21866:23534): Se asigno el bloque 20
+[INFO] 01:04:43:448 cliente/(21866:23534): El primer bloque desocupado es: 21
+[INFO] 01:04:43:448 cliente/(21866:23534): El primer bloque desocupado es: 21
+[INFO] 01:04:43:448 cliente/(21866:23534): Se asigno el bloque 21
+[INFO] 01:04:43:448 cliente/(21866:23534): El primer bloque desocupado es: 24
+[INFO] 01:04:43:448 cliente/(21866:23534): El primer bloque desocupado es: 24
+[INFO] 01:04:43:448 cliente/(21866:23534): Se asigno el bloque 24
+[INFO] 01:04:43:448 cliente/(21866:23534): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:05:03:449 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:05:03:449 cliente/(21866:23544): Se recibe mensaje 'Plato Listo'
+[INFO] 01:05:03:461 cliente/(21866:23544): Se desasignó el bloque 20
+[INFO] 01:05:03:461 cliente/(21866:23544): Se desasignó el bloque 21
+[INFO] 01:05:03:461 cliente/(21866:23544): Se desasignó el bloque 24
+[INFO] 01:05:03:461 cliente/(21866:23544): El primer bloque desocupado es: 20
+[INFO] 01:05:03:461 cliente/(21866:23544): Se asigno el bloque 20
+[INFO] 01:05:03:461 cliente/(21866:23544): El primer bloque desocupado es: 21
+[INFO] 01:05:03:461 cliente/(21866:23544): El primer bloque desocupado es: 21
+[INFO] 01:05:03:461 cliente/(21866:23544): Se asigno el bloque 21
+[INFO] 01:05:03:461 cliente/(21866:23544): El primer bloque desocupado es: 24
+[INFO] 01:05:03:461 cliente/(21866:23544): El primer bloque desocupado es: 24
+[INFO] 01:05:03:461 cliente/(21866:23544): Se asigno el bloque 24
+[INFO] 01:05:03:462 cliente/(21866:23544): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:14:30:728 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:14:30:728 cliente/(21866:24105): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:14:30:728 cliente/(21866:24105): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [5,5] [] [MilaCompleta] [200] 1 1
+[INFO] 01:14:52:405 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:14:52:405 cliente/(21866:24148): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:14:52:406 cliente/(21866:24148): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1 1
+[INFO] 01:15:00:899 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:15:00:899 cliente/(21866:24177): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:15:00:899 cliente/(21866:24177): La respuesta al mensaje 'Obtener Restaurante' fue: 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1 2
+[INFO] 01:15:56:121 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:15:56:121 cliente/(21866:24216): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:15:56:121 cliente/(21866:24216): Creado el archivo .AFIP del pedido 2
+[INFO] 01:15:56:121 cliente/(21866:24216): El primer bloque desocupado es: 26
+[INFO] 01:15:56:121 cliente/(21866:24216): Se asigno el bloque 26
+[INFO] 01:15:56:121 cliente/(21866:24216): El primer bloque desocupado es: 27
+[INFO] 01:15:56:121 cliente/(21866:24216): El primer bloque desocupado es: 27
+[INFO] 01:15:56:121 cliente/(21866:24216): Se asigno el bloque 27
+[INFO] 01:15:56:121 cliente/(21866:24216): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido2.afip
+[INFO] 01:15:56:121 cliente/(21866:24216): Se desasignó el bloque 6
+[INFO] 01:15:56:121 cliente/(21866:24216): Se desasignó el bloque 7
+[INFO] 01:15:56:121 cliente/(21866:24216): Se desasignó el bloque 8
+[INFO] 01:15:56:121 cliente/(21866:24216): El primer bloque desocupado es: 6
+[INFO] 01:15:56:121 cliente/(21866:24216): Se asigno el bloque 6
+[INFO] 01:15:56:121 cliente/(21866:24216): El primer bloque desocupado es: 7
+[INFO] 01:15:56:121 cliente/(21866:24216): El primer bloque desocupado es: 7
+[INFO] 01:15:56:122 cliente/(21866:24216): Se asigno el bloque 7
+[INFO] 01:15:56:122 cliente/(21866:24216): El primer bloque desocupado es: 8
+[INFO] 01:15:56:122 cliente/(21866:24216): El primer bloque desocupado es: 8
+[INFO] 01:15:56:122 cliente/(21866:24216): Se asigno el bloque 8
+[INFO] 01:15:56:122 cliente/(21866:24216): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:16:24:394 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:16:24:394 cliente/(21866:24276): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:16:24:394 cliente/(21866:24276): Creado el archivo .AFIP del pedido 2
+[INFO] 01:16:24:394 cliente/(21866:24276): El primer bloque desocupado es: 28
+[INFO] 01:16:24:394 cliente/(21866:24276): Se asigno el bloque 28
+[INFO] 01:16:24:394 cliente/(21866:24276): El primer bloque desocupado es: 29
+[INFO] 01:16:24:394 cliente/(21866:24276): El primer bloque desocupado es: 29
+[INFO] 01:16:24:394 cliente/(21866:24276): Se asigno el bloque 29
+[INFO] 01:16:24:395 cliente/(21866:24276): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido2.afip
+[INFO] 01:16:24:395 cliente/(21866:24276): Se desasignó el bloque 3
+[INFO] 01:16:24:395 cliente/(21866:24276): Se desasignó el bloque 4
+[INFO] 01:16:24:395 cliente/(21866:24276): Se desasignó el bloque 5
+[INFO] 01:16:24:395 cliente/(21866:24276): El primer bloque desocupado es: 3
+[INFO] 01:16:24:395 cliente/(21866:24276): Se asigno el bloque 3
+[INFO] 01:16:24:395 cliente/(21866:24276): El primer bloque desocupado es: 4
+[INFO] 01:16:24:395 cliente/(21866:24276): El primer bloque desocupado es: 4
+[INFO] 01:16:24:395 cliente/(21866:24276): Se asigno el bloque 4
+[INFO] 01:16:24:395 cliente/(21866:24276): El primer bloque desocupado es: 5
+[INFO] 01:16:24:395 cliente/(21866:24276): El primer bloque desocupado es: 5
+[INFO] 01:16:24:395 cliente/(21866:24276): Se asigno el bloque 5
+[INFO] 01:16:24:395 cliente/(21866:24276): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:16:28:383 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:16:28:383 cliente/(21866:24305): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:16:28:383 cliente/(21866:24305): Creado el archivo .AFIP del pedido 3
+[INFO] 01:16:28:383 cliente/(21866:24305): El primer bloque desocupado es: 30
+[INFO] 01:16:28:383 cliente/(21866:24305): Se asigno el bloque 30
+[INFO] 01:16:28:383 cliente/(21866:24305): El primer bloque desocupado es: 31
+[INFO] 01:16:28:383 cliente/(21866:24305): El primer bloque desocupado es: 31
+[INFO] 01:16:28:383 cliente/(21866:24305): Se asigno el bloque 31
+[INFO] 01:16:28:383 cliente/(21866:24305): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido3.afip
+[INFO] 01:16:28:383 cliente/(21866:24305): Se desasignó el bloque 0
+[INFO] 01:16:28:383 cliente/(21866:24305): Se desasignó el bloque 1
+[INFO] 01:16:28:384 cliente/(21866:24305): Se desasignó el bloque 2
+[INFO] 01:16:28:384 cliente/(21866:24305): El primer bloque desocupado es: 0
+[INFO] 01:16:28:384 cliente/(21866:24305): Se asigno el bloque 0
+[INFO] 01:16:28:384 cliente/(21866:24305): El primer bloque desocupado es: 1
+[INFO] 01:16:28:384 cliente/(21866:24305): El primer bloque desocupado es: 1
+[INFO] 01:16:28:384 cliente/(21866:24305): Se asigno el bloque 1
+[INFO] 01:16:28:384 cliente/(21866:24305): El primer bloque desocupado es: 2
+[INFO] 01:16:28:384 cliente/(21866:24305): El primer bloque desocupado es: 2
+[INFO] 01:16:28:384 cliente/(21866:24305): Se asigno el bloque 2
+[INFO] 01:16:28:384 cliente/(21866:24305): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:16:38:428 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:16:38:428 cliente/(21866:24317): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:16:38:447 cliente/(21866:24317): Se desasignó el bloque 26
+[INFO] 01:16:38:447 cliente/(21866:24317): Se desasignó el bloque 27
+[INFO] 01:16:38:447 cliente/(21866:24317): El primer bloque desocupado es: 26
+[INFO] 01:16:38:447 cliente/(21866:24317): Se asigno el bloque 26
+[INFO] 01:16:38:447 cliente/(21866:24317): El primer bloque desocupado es: 27
+[INFO] 01:16:38:447 cliente/(21866:24317): El primer bloque desocupado es: 27
+[INFO] 01:16:38:447 cliente/(21866:24317): Se asigno el bloque 27
+[INFO] 01:16:38:456 cliente/(21866:24317): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:16:51:333 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:16:51:333 cliente/(21866:24328): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:16:51:350 cliente/(21866:24328): Se desasignó el bloque 28
+[INFO] 01:16:51:350 cliente/(21866:24328): Se desasignó el bloque 29
+[INFO] 01:16:51:350 cliente/(21866:24328): El primer bloque desocupado es: 28
+[INFO] 01:16:51:350 cliente/(21866:24328): Se asigno el bloque 28
+[INFO] 01:16:51:350 cliente/(21866:24328): El primer bloque desocupado es: 29
+[INFO] 01:16:51:350 cliente/(21866:24328): El primer bloque desocupado es: 29
+[INFO] 01:16:51:350 cliente/(21866:24328): Se asigno el bloque 29
+[INFO] 01:16:51:350 cliente/(21866:24328): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:02:121 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:02:121 cliente/(21866:24358): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:02:127 cliente/(21866:24358): Se desasignó el bloque 28
+[INFO] 01:17:02:127 cliente/(21866:24358): Se desasignó el bloque 29
+[INFO] 01:17:02:127 cliente/(21866:24358): El primer bloque desocupado es: 28
+[INFO] 01:17:02:127 cliente/(21866:24358): Se asigno el bloque 28
+[INFO] 01:17:02:127 cliente/(21866:24358): El primer bloque desocupado es: 29
+[INFO] 01:17:02:127 cliente/(21866:24358): El primer bloque desocupado es: 29
+[INFO] 01:17:02:127 cliente/(21866:24358): Se asigno el bloque 29
+[INFO] 01:17:02:127 cliente/(21866:24358): El primer bloque desocupado es: 32
+[INFO] 01:17:02:127 cliente/(21866:24358): El primer bloque desocupado es: 32
+[INFO] 01:17:02:127 cliente/(21866:24358): Se asigno el bloque 32
+[INFO] 01:17:02:127 cliente/(21866:24358): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:09:266 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:09:266 cliente/(21866:24384): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:09:274 cliente/(21866:24384): Se desasignó el bloque 28
+[INFO] 01:17:09:274 cliente/(21866:24384): Se desasignó el bloque 29
+[INFO] 01:17:09:274 cliente/(21866:24384): Se desasignó el bloque 32
+[INFO] 01:17:09:274 cliente/(21866:24384): El primer bloque desocupado es: 28
+[INFO] 01:17:09:274 cliente/(21866:24384): Se asigno el bloque 28
+[INFO] 01:17:09:274 cliente/(21866:24384): El primer bloque desocupado es: 29
+[INFO] 01:17:09:274 cliente/(21866:24384): El primer bloque desocupado es: 29
+[INFO] 01:17:09:274 cliente/(21866:24384): Se asigno el bloque 29
+[INFO] 01:17:09:274 cliente/(21866:24384): El primer bloque desocupado es: 32
+[INFO] 01:17:09:274 cliente/(21866:24384): El primer bloque desocupado es: 32
+[INFO] 01:17:09:274 cliente/(21866:24384): Se asigno el bloque 32
+[INFO] 01:17:09:274 cliente/(21866:24384): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:21:892 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:21:892 cliente/(21866:24397): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:21:900 cliente/(21866:24397): Se desasignó el bloque 30
+[INFO] 01:17:21:900 cliente/(21866:24397): Se desasignó el bloque 31
+[INFO] 01:17:21:900 cliente/(21866:24397): El primer bloque desocupado es: 30
+[INFO] 01:17:21:900 cliente/(21866:24397): Se asigno el bloque 30
+[INFO] 01:17:21:900 cliente/(21866:24397): El primer bloque desocupado es: 31
+[INFO] 01:17:21:900 cliente/(21866:24397): El primer bloque desocupado es: 31
+[INFO] 01:17:21:900 cliente/(21866:24397): Se asigno el bloque 31
+[INFO] 01:17:21:900 cliente/(21866:24397): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:28:185 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:28:185 cliente/(21866:24424): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:28:194 cliente/(21866:24424): Se desasignó el bloque 30
+[INFO] 01:17:28:194 cliente/(21866:24424): Se desasignó el bloque 31
+[INFO] 01:17:28:194 cliente/(21866:24424): El primer bloque desocupado es: 30
+[INFO] 01:17:28:194 cliente/(21866:24424): Se asigno el bloque 30
+[INFO] 01:17:28:194 cliente/(21866:24424): El primer bloque desocupado es: 31
+[INFO] 01:17:28:194 cliente/(21866:24424): El primer bloque desocupado es: 31
+[INFO] 01:17:28:194 cliente/(21866:24424): Se asigno el bloque 31
+[INFO] 01:17:28:195 cliente/(21866:24424): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:28:931 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:28:931 cliente/(21866:24431): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:28:931 cliente/(21866:24431): Se desasignó el bloque 30
+[INFO] 01:17:28:931 cliente/(21866:24431): Se desasignó el bloque 31
+[INFO] 01:17:28:931 cliente/(21866:24431): El primer bloque desocupado es: 30
+[INFO] 01:17:28:931 cliente/(21866:24431): Se asigno el bloque 30
+[INFO] 01:17:28:931 cliente/(21866:24431): El primer bloque desocupado es: 31
+[INFO] 01:17:28:931 cliente/(21866:24431): El primer bloque desocupado es: 31
+[INFO] 01:17:28:931 cliente/(21866:24431): Se asigno el bloque 31
+[INFO] 01:17:28:932 cliente/(21866:24431): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:29:837 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:29:837 cliente/(21866:24440): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:29:837 cliente/(21866:24440): Se desasignó el bloque 30
+[INFO] 01:17:29:837 cliente/(21866:24440): Se desasignó el bloque 31
+[INFO] 01:17:29:837 cliente/(21866:24440): El primer bloque desocupado es: 30
+[INFO] 01:17:29:837 cliente/(21866:24440): Se asigno el bloque 30
+[INFO] 01:17:29:837 cliente/(21866:24440): El primer bloque desocupado es: 31
+[INFO] 01:17:29:837 cliente/(21866:24440): El primer bloque desocupado es: 31
+[INFO] 01:17:29:837 cliente/(21866:24440): Se asigno el bloque 31
+[INFO] 01:17:29:838 cliente/(21866:24440): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:35:261 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:35:261 cliente/(21866:24450): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:35:270 cliente/(21866:24450): Se desasignó el bloque 30
+[INFO] 01:17:35:270 cliente/(21866:24450): Se desasignó el bloque 31
+[INFO] 01:17:35:270 cliente/(21866:24450): El primer bloque desocupado es: 30
+[INFO] 01:17:35:270 cliente/(21866:24450): Se asigno el bloque 30
+[INFO] 01:17:35:270 cliente/(21866:24450): El primer bloque desocupado es: 31
+[INFO] 01:17:35:270 cliente/(21866:24450): El primer bloque desocupado es: 31
+[INFO] 01:17:35:270 cliente/(21866:24450): Se asigno el bloque 31
+[INFO] 01:17:35:270 cliente/(21866:24450): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:17:48:882 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:17:48:882 cliente/(21866:24468): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:17:48:895 cliente/(21866:24468): Se desasignó el bloque 30
+[INFO] 01:17:48:895 cliente/(21866:24468): Se desasignó el bloque 31
+[INFO] 01:17:48:895 cliente/(21866:24468): El primer bloque desocupado es: 30
+[INFO] 01:17:48:895 cliente/(21866:24468): Se asigno el bloque 30
+[INFO] 01:17:48:895 cliente/(21866:24468): El primer bloque desocupado es: 31
+[INFO] 01:17:48:895 cliente/(21866:24468): El primer bloque desocupado es: 31
+[INFO] 01:17:48:895 cliente/(21866:24468): Se asigno el bloque 31
+[INFO] 01:17:48:895 cliente/(21866:24468): El primer bloque desocupado es: 33
+[INFO] 01:17:48:895 cliente/(21866:24468): El primer bloque desocupado es: 33
+[INFO] 01:17:48:895 cliente/(21866:24468): Se asigno el bloque 33
+[INFO] 01:17:48:895 cliente/(21866:24468): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:18:12:340 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:340 cliente/(21866:24503): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:18:12:345 cliente/(21866:24503): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [Choripan,AsadoJugoso,AsadoSeco] [4,1,1] [0,0,0] 900
+[INFO] 01:18:12:346 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:346 cliente/(21866:24504): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:18:12:346 cliente/(21866:24504): Se desasignó el bloque 30
+[INFO] 01:18:12:346 cliente/(21866:24504): Se desasignó el bloque 31
+[INFO] 01:18:12:346 cliente/(21866:24504): Se desasignó el bloque 33
+[INFO] 01:18:12:346 cliente/(21866:24504): El primer bloque desocupado es: 30
+[INFO] 01:18:12:346 cliente/(21866:24504): Se asigno el bloque 30
+[INFO] 01:18:12:346 cliente/(21866:24504): El primer bloque desocupado es: 31
+[INFO] 01:18:12:346 cliente/(21866:24504): El primer bloque desocupado es: 31
+[INFO] 01:18:12:346 cliente/(21866:24504): Se asigno el bloque 31
+[INFO] 01:18:12:346 cliente/(21866:24504): El primer bloque desocupado es: 33
+[INFO] 01:18:12:346 cliente/(21866:24504): El primer bloque desocupado es: 33
+[INFO] 01:18:12:346 cliente/(21866:24504): Se asigno el bloque 33
+[INFO] 01:18:12:346 cliente/(21866:24504): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:18:12:347 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:347 cliente/(21866:24508): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:18:12:347 cliente/(21866:24508): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [1,2,1]
+[INFO] 01:18:12:347 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:347 cliente/(21866:24510): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:18:12:347 cliente/(21866:24510): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,3,2]
+[INFO] 01:18:12:347 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:347 cliente/(21866:24512): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:18:12:347 cliente/(21866:24512): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,10,2]
+[INFO] 01:18:12:965 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:965 cliente/(21866:24538): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:18:12:965 cliente/(21866:24538): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [MilaCompleta] [1] [0] 200
+[INFO] 01:18:12:966 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:966 cliente/(21866:24539): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:18:12:966 cliente/(21866:24539): Se desasignó el bloque 26
+[INFO] 01:18:12:966 cliente/(21866:24539): Se desasignó el bloque 27
+[INFO] 01:18:12:966 cliente/(21866:24539): El primer bloque desocupado es: 26
+[INFO] 01:18:12:966 cliente/(21866:24539): Se asigno el bloque 26
+[INFO] 01:18:12:966 cliente/(21866:24539): El primer bloque desocupado es: 27
+[INFO] 01:18:12:966 cliente/(21866:24539): El primer bloque desocupado es: 27
+[INFO] 01:18:12:966 cliente/(21866:24539): Se asigno el bloque 27
+[INFO] 01:18:12:966 cliente/(21866:24539): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:18:12:966 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:12:967 cliente/(21866:24543): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:18:12:967 cliente/(21866:24543): La respuesta al mensaje 'Obtener Receta' fue: [Empanar,Hornear,Servir] [5,2,1]
+[INFO] 01:18:13:618 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:13:618 cliente/(21866:24551): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:18:13:628 cliente/(21866:24551): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [WokDeVegetales,TortillaDePapa] [1,2] [0,0] 500
+[INFO] 01:18:13:629 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:13:629 cliente/(21866:24552): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:18:13:629 cliente/(21866:24552): Se desasignó el bloque 28
+[INFO] 01:18:13:629 cliente/(21866:24552): Se desasignó el bloque 29
+[INFO] 01:18:13:629 cliente/(21866:24552): Se desasignó el bloque 32
+[INFO] 01:18:13:629 cliente/(21866:24552): El primer bloque desocupado es: 28
+[INFO] 01:18:13:629 cliente/(21866:24552): Se asigno el bloque 28
+[INFO] 01:18:13:629 cliente/(21866:24552): El primer bloque desocupado es: 29
+[INFO] 01:18:13:629 cliente/(21866:24552): El primer bloque desocupado es: 29
+[INFO] 01:18:13:629 cliente/(21866:24552): Se asigno el bloque 29
+[INFO] 01:18:13:629 cliente/(21866:24552): El primer bloque desocupado es: 32
+[INFO] 01:18:13:629 cliente/(21866:24552): El primer bloque desocupado es: 32
+[INFO] 01:18:13:629 cliente/(21866:24552): Se asigno el bloque 32
+[INFO] 01:18:13:629 cliente/(21866:24552): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:18:13:630 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:13:630 cliente/(21866:24555): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:18:13:630 cliente/(21866:24555): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Condimentar,Servir] [3,1,1]
+[INFO] 01:18:13:630 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:13:630 cliente/(21866:24556): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:18:13:630 cliente/(21866:24556): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+[INFO] 01:18:22:348 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:22:348 cliente/(21866:24597): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:22:349 cliente/(21866:24597): Se desasignó el bloque 30
+[INFO] 01:18:22:349 cliente/(21866:24597): Se desasignó el bloque 31
+[INFO] 01:18:22:349 cliente/(21866:24597): Se desasignó el bloque 33
+[INFO] 01:18:22:349 cliente/(21866:24597): El primer bloque desocupado es: 30
+[INFO] 01:18:22:349 cliente/(21866:24597): Se asigno el bloque 30
+[INFO] 01:18:22:349 cliente/(21866:24597): El primer bloque desocupado es: 31
+[INFO] 01:18:22:349 cliente/(21866:24597): El primer bloque desocupado es: 31
+[INFO] 01:18:22:349 cliente/(21866:24597): Se asigno el bloque 31
+[INFO] 01:18:22:349 cliente/(21866:24597): El primer bloque desocupado es: 33
+[INFO] 01:18:22:349 cliente/(21866:24597): El primer bloque desocupado es: 33
+[INFO] 01:18:22:349 cliente/(21866:24597): Se asigno el bloque 33
+[INFO] 01:18:22:349 cliente/(21866:24597): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:28:348 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:28:349 cliente/(21866:24622): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:28:353 cliente/(21866:24622): Se desasignó el bloque 30
+[INFO] 01:18:28:353 cliente/(21866:24622): Se desasignó el bloque 31
+[INFO] 01:18:28:353 cliente/(21866:24622): Se desasignó el bloque 33
+[INFO] 01:18:28:353 cliente/(21866:24622): El primer bloque desocupado es: 30
+[INFO] 01:18:28:353 cliente/(21866:24622): Se asigno el bloque 30
+[INFO] 01:18:28:353 cliente/(21866:24622): El primer bloque desocupado es: 31
+[INFO] 01:18:28:353 cliente/(21866:24622): El primer bloque desocupado es: 31
+[INFO] 01:18:28:353 cliente/(21866:24622): Se asigno el bloque 31
+[INFO] 01:18:28:353 cliente/(21866:24622): El primer bloque desocupado es: 33
+[INFO] 01:18:28:353 cliente/(21866:24622): El primer bloque desocupado es: 33
+[INFO] 01:18:28:353 cliente/(21866:24622): Se asigno el bloque 33
+[INFO] 01:18:28:354 cliente/(21866:24622): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:28:968 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:28:968 cliente/(21866:24629): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:28:980 cliente/(21866:24629): Se desasignó el bloque 26
+[INFO] 01:18:28:980 cliente/(21866:24629): Se desasignó el bloque 27
+[INFO] 01:18:28:980 cliente/(21866:24629): El primer bloque desocupado es: 26
+[INFO] 01:18:28:980 cliente/(21866:24629): Se asigno el bloque 26
+[INFO] 01:18:28:980 cliente/(21866:24629): El primer bloque desocupado es: 27
+[INFO] 01:18:28:980 cliente/(21866:24629): El primer bloque desocupado es: 27
+[INFO] 01:18:28:980 cliente/(21866:24629): Se asigno el bloque 27
+[INFO] 01:18:28:981 cliente/(21866:24629): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:28:981 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:28:981 cliente/(21866:24632): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:18:28:981 cliente/(21866:24632): Se desasignó el bloque 26
+[INFO] 01:18:28:981 cliente/(21866:24632): Se desasignó el bloque 27
+[INFO] 01:18:28:981 cliente/(21866:24632): El primer bloque desocupado es: 26
+[INFO] 01:18:28:981 cliente/(21866:24632): Se asigno el bloque 26
+[INFO] 01:18:28:981 cliente/(21866:24632): El primer bloque desocupado es: 27
+[INFO] 01:18:28:981 cliente/(21866:24632): El primer bloque desocupado es: 27
+[INFO] 01:18:28:981 cliente/(21866:24632): Se asigno el bloque 27
+[INFO] 01:18:28:982 cliente/(21866:24632): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:18:31:631 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:31:631 cliente/(21866:24640): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:31:639 cliente/(21866:24640): Se desasignó el bloque 28
+[INFO] 01:18:31:639 cliente/(21866:24640): Se desasignó el bloque 29
+[INFO] 01:18:31:639 cliente/(21866:24640): Se desasignó el bloque 32
+[INFO] 01:18:31:639 cliente/(21866:24640): El primer bloque desocupado es: 28
+[INFO] 01:18:31:639 cliente/(21866:24640): Se asigno el bloque 28
+[INFO] 01:18:31:639 cliente/(21866:24640): El primer bloque desocupado es: 29
+[INFO] 01:18:31:639 cliente/(21866:24640): El primer bloque desocupado es: 29
+[INFO] 01:18:31:639 cliente/(21866:24640): Se asigno el bloque 29
+[INFO] 01:18:31:639 cliente/(21866:24640): El primer bloque desocupado es: 32
+[INFO] 01:18:31:639 cliente/(21866:24640): El primer bloque desocupado es: 32
+[INFO] 01:18:31:639 cliente/(21866:24640): Se asigno el bloque 32
+[INFO] 01:18:31:639 cliente/(21866:24640): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:39:640 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:39:640 cliente/(21866:24669): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:39:672 cliente/(21866:24669): Se desasignó el bloque 28
+[INFO] 01:18:39:673 cliente/(21866:24669): Se desasignó el bloque 29
+[INFO] 01:18:39:673 cliente/(21866:24669): Se desasignó el bloque 32
+[INFO] 01:18:39:673 cliente/(21866:24669): El primer bloque desocupado es: 28
+[INFO] 01:18:39:673 cliente/(21866:24669): Se asigno el bloque 28
+[INFO] 01:18:39:673 cliente/(21866:24669): El primer bloque desocupado es: 29
+[INFO] 01:18:39:673 cliente/(21866:24669): El primer bloque desocupado es: 29
+[INFO] 01:18:39:673 cliente/(21866:24669): Se asigno el bloque 29
+[INFO] 01:18:39:673 cliente/(21866:24669): El primer bloque desocupado es: 32
+[INFO] 01:18:39:673 cliente/(21866:24669): El primer bloque desocupado es: 32
+[INFO] 01:18:39:673 cliente/(21866:24669): Se asigno el bloque 32
+[INFO] 01:18:39:673 cliente/(21866:24669): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:50:350 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:50:350 cliente/(21866:24706): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:50:407 cliente/(21866:24706): Se desasignó el bloque 30
+[INFO] 01:18:50:407 cliente/(21866:24706): Se desasignó el bloque 31
+[INFO] 01:18:50:407 cliente/(21866:24706): Se desasignó el bloque 33
+[INFO] 01:18:50:407 cliente/(21866:24706): El primer bloque desocupado es: 30
+[INFO] 01:18:50:407 cliente/(21866:24706): Se asigno el bloque 30
+[INFO] 01:18:50:407 cliente/(21866:24706): El primer bloque desocupado es: 31
+[INFO] 01:18:50:407 cliente/(21866:24706): El primer bloque desocupado es: 31
+[INFO] 01:18:50:407 cliente/(21866:24706): Se asigno el bloque 31
+[INFO] 01:18:50:407 cliente/(21866:24706): El primer bloque desocupado es: 33
+[INFO] 01:18:50:407 cliente/(21866:24706): El primer bloque desocupado es: 33
+[INFO] 01:18:50:407 cliente/(21866:24706): Se asigno el bloque 33
+[INFO] 01:18:50:407 cliente/(21866:24706): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:52:407 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:52:408 cliente/(21866:24741): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:52:408 cliente/(21866:24741): Se desasignó el bloque 30
+[INFO] 01:18:52:408 cliente/(21866:24741): Se desasignó el bloque 31
+[INFO] 01:18:52:408 cliente/(21866:24741): Se desasignó el bloque 33
+[INFO] 01:18:52:408 cliente/(21866:24741): El primer bloque desocupado es: 30
+[INFO] 01:18:52:408 cliente/(21866:24741): Se asigno el bloque 30
+[INFO] 01:18:52:408 cliente/(21866:24741): El primer bloque desocupado es: 31
+[INFO] 01:18:52:408 cliente/(21866:24741): El primer bloque desocupado es: 31
+[INFO] 01:18:52:408 cliente/(21866:24741): Se asigno el bloque 31
+[INFO] 01:18:52:408 cliente/(21866:24741): El primer bloque desocupado es: 33
+[INFO] 01:18:52:408 cliente/(21866:24741): El primer bloque desocupado es: 33
+[INFO] 01:18:52:408 cliente/(21866:24741): Se asigno el bloque 33
+[INFO] 01:18:52:408 cliente/(21866:24741): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:55:674 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:55:674 cliente/(21866:24754): Se recibe mensaje 'Plato Listo'
+[INFO] 01:18:55:682 cliente/(21866:24754): Se desasignó el bloque 28
+[INFO] 01:18:55:682 cliente/(21866:24754): Se desasignó el bloque 29
+[INFO] 01:18:55:682 cliente/(21866:24754): Se desasignó el bloque 32
+[INFO] 01:18:55:682 cliente/(21866:24754): El primer bloque desocupado es: 28
+[INFO] 01:18:55:682 cliente/(21866:24754): Se asigno el bloque 28
+[INFO] 01:18:55:682 cliente/(21866:24754): El primer bloque desocupado es: 29
+[INFO] 01:18:55:682 cliente/(21866:24754): El primer bloque desocupado es: 29
+[INFO] 01:18:55:682 cliente/(21866:24754): Se asigno el bloque 29
+[INFO] 01:18:55:682 cliente/(21866:24754): El primer bloque desocupado es: 32
+[INFO] 01:18:55:682 cliente/(21866:24754): El primer bloque desocupado es: 32
+[INFO] 01:18:55:682 cliente/(21866:24754): Se asigno el bloque 32
+[INFO] 01:18:55:682 cliente/(21866:24754): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:18:55:683 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:18:55:683 cliente/(21866:24755): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:18:55:683 cliente/(21866:24755): Se desasignó el bloque 28
+[INFO] 01:18:55:683 cliente/(21866:24755): Se desasignó el bloque 29
+[INFO] 01:18:55:683 cliente/(21866:24755): Se desasignó el bloque 32
+[INFO] 01:18:55:683 cliente/(21866:24755): El primer bloque desocupado es: 28
+[INFO] 01:18:55:683 cliente/(21866:24755): Se asigno el bloque 28
+[INFO] 01:18:55:683 cliente/(21866:24755): El primer bloque desocupado es: 29
+[INFO] 01:18:55:683 cliente/(21866:24755): El primer bloque desocupado es: 29
+[INFO] 01:18:55:683 cliente/(21866:24755): Se asigno el bloque 29
+[INFO] 01:18:55:683 cliente/(21866:24755): El primer bloque desocupado es: 32
+[INFO] 01:18:55:683 cliente/(21866:24755): El primer bloque desocupado es: 32
+[INFO] 01:18:55:683 cliente/(21866:24755): Se asigno el bloque 32
+[INFO] 01:18:55:683 cliente/(21866:24755): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:19:00:409 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:19:00:409 cliente/(21866:24777): Se recibe mensaje 'Plato Listo'
+[INFO] 01:19:00:429 cliente/(21866:24777): Se desasignó el bloque 30
+[INFO] 01:19:00:429 cliente/(21866:24777): Se desasignó el bloque 31
+[INFO] 01:19:00:430 cliente/(21866:24777): Se desasignó el bloque 33
+[INFO] 01:19:00:430 cliente/(21866:24777): El primer bloque desocupado es: 30
+[INFO] 01:19:00:430 cliente/(21866:24777): Se asigno el bloque 30
+[INFO] 01:19:00:430 cliente/(21866:24777): El primer bloque desocupado es: 31
+[INFO] 01:19:00:430 cliente/(21866:24777): El primer bloque desocupado es: 31
+[INFO] 01:19:00:430 cliente/(21866:24777): Se asigno el bloque 31
+[INFO] 01:19:00:430 cliente/(21866:24777): El primer bloque desocupado es: 33
+[INFO] 01:19:00:430 cliente/(21866:24777): El primer bloque desocupado es: 33
+[INFO] 01:19:00:430 cliente/(21866:24777): Se asigno el bloque 33
+[INFO] 01:19:00:430 cliente/(21866:24777): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:19:08:431 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:19:08:431 cliente/(21866:24804): Se recibe mensaje 'Plato Listo'
+[INFO] 01:19:08:513 cliente/(21866:24804): Se desasignó el bloque 30
+[INFO] 01:19:08:513 cliente/(21866:24804): Se desasignó el bloque 31
+[INFO] 01:19:08:513 cliente/(21866:24804): Se desasignó el bloque 33
+[INFO] 01:19:08:513 cliente/(21866:24804): El primer bloque desocupado es: 30
+[INFO] 01:19:08:513 cliente/(21866:24804): Se asigno el bloque 30
+[INFO] 01:19:08:513 cliente/(21866:24804): El primer bloque desocupado es: 31
+[INFO] 01:19:08:513 cliente/(21866:24804): El primer bloque desocupado es: 31
+[INFO] 01:19:08:513 cliente/(21866:24804): Se asigno el bloque 31
+[INFO] 01:19:08:513 cliente/(21866:24804): El primer bloque desocupado es: 33
+[INFO] 01:19:08:513 cliente/(21866:24804): El primer bloque desocupado es: 33
+[INFO] 01:19:08:513 cliente/(21866:24804): Se asigno el bloque 33
+[INFO] 01:19:08:514 cliente/(21866:24804): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:19:08:514 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:19:08:514 cliente/(21866:24805): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:19:08:514 cliente/(21866:24805): Se desasignó el bloque 30
+[INFO] 01:19:08:514 cliente/(21866:24805): Se desasignó el bloque 31
+[INFO] 01:19:08:514 cliente/(21866:24805): Se desasignó el bloque 33
+[INFO] 01:19:08:514 cliente/(21866:24805): El primer bloque desocupado es: 30
+[INFO] 01:19:08:514 cliente/(21866:24805): Se asigno el bloque 30
+[INFO] 01:19:08:514 cliente/(21866:24805): El primer bloque desocupado es: 31
+[INFO] 01:19:08:514 cliente/(21866:24805): El primer bloque desocupado es: 31
+[INFO] 01:19:08:514 cliente/(21866:24805): Se asigno el bloque 31
+[INFO] 01:19:08:514 cliente/(21866:24805): El primer bloque desocupado es: 33
+[INFO] 01:19:08:514 cliente/(21866:24805): El primer bloque desocupado es: 33
+[INFO] 01:19:08:514 cliente/(21866:24805): Se asigno el bloque 33
+[INFO] 01:19:08:514 cliente/(21866:24805): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:23:17:190 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:23:17:190 cliente/(21866:25161): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:23:17:190 cliente/(21866:25161): La respuesta al mensaje 'Obtener Restaurante' fue: 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1 3
+[INFO] 01:23:48:36 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:23:48:36 cliente/(21866:25213): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:23:48:36 cliente/(21866:25213): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1 2
+[INFO] 01:24:06:277 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:24:06:277 cliente/(21866:25251): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:24:06:277 cliente/(21866:25251): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [5,5] [] [MilaCompleta] [200] 1 2
+[INFO] 01:25:00:37 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:25:00:38 cliente/(21866:25899): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:25:00:38 cliente/(21866:25899): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [5,5] [] [MilaCompleta] [200] 1 2
+[INFO] 01:25:10:357 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:25:10:357 cliente/(21866:25930): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:25:10:357 cliente/(21866:25930): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1 2
+[INFO] 01:25:21:102 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:25:21:102 cliente/(21866:25969): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:25:21:102 cliente/(21866:25969): La respuesta al mensaje 'Obtener Restaurante' fue: 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1 3
+[INFO] 01:26:31:616 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:26:31:616 cliente/(21866:26029): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:26:31:616 cliente/(21866:26029): Creado el archivo .AFIP del pedido 3
+[INFO] 01:26:31:616 cliente/(21866:26029): El primer bloque desocupado es: 34
+[INFO] 01:26:31:616 cliente/(21866:26029): Se asigno el bloque 34
+[INFO] 01:26:31:616 cliente/(21866:26029): El primer bloque desocupado es: 35
+[INFO] 01:26:31:616 cliente/(21866:26029): El primer bloque desocupado es: 35
+[INFO] 01:26:31:616 cliente/(21866:26029): Se asigno el bloque 35
+[INFO] 01:26:31:616 cliente/(21866:26029): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido3.afip
+[INFO] 01:26:31:617 cliente/(21866:26029): Se desasignó el bloque 6
+[INFO] 01:26:31:617 cliente/(21866:26029): Se desasignó el bloque 7
+[INFO] 01:26:31:617 cliente/(21866:26029): Se desasignó el bloque 8
+[INFO] 01:26:31:617 cliente/(21866:26029): El primer bloque desocupado es: 6
+[INFO] 01:26:31:617 cliente/(21866:26029): Se asigno el bloque 6
+[INFO] 01:26:31:617 cliente/(21866:26029): El primer bloque desocupado es: 7
+[INFO] 01:26:31:617 cliente/(21866:26029): El primer bloque desocupado es: 7
+[INFO] 01:26:31:617 cliente/(21866:26029): Se asigno el bloque 7
+[INFO] 01:26:31:617 cliente/(21866:26029): El primer bloque desocupado es: 8
+[INFO] 01:26:31:617 cliente/(21866:26029): El primer bloque desocupado es: 8
+[INFO] 01:26:31:617 cliente/(21866:26029): Se asigno el bloque 8
+[INFO] 01:26:31:617 cliente/(21866:26029): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:27:21:118 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:27:21:118 cliente/(21866:26092): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:27:21:118 cliente/(21866:26092): Creado el archivo .AFIP del pedido 4
+[INFO] 01:27:21:118 cliente/(21866:26092): El primer bloque desocupado es: 36
+[INFO] 01:27:21:118 cliente/(21866:26092): Se asigno el bloque 36
+[INFO] 01:27:21:118 cliente/(21866:26092): El primer bloque desocupado es: 37
+[INFO] 01:27:21:118 cliente/(21866:26092): El primer bloque desocupado es: 37
+[INFO] 01:27:21:118 cliente/(21866:26092): Se asigno el bloque 37
+[INFO] 01:27:21:119 cliente/(21866:26092): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido4.afip
+[INFO] 01:27:21:119 cliente/(21866:26092): Se desasignó el bloque 0
+[INFO] 01:27:21:119 cliente/(21866:26092): Se desasignó el bloque 1
+[INFO] 01:27:21:119 cliente/(21866:26092): Se desasignó el bloque 2
+[INFO] 01:27:21:119 cliente/(21866:26092): El primer bloque desocupado es: 0
+[INFO] 01:27:21:119 cliente/(21866:26092): Se asigno el bloque 0
+[INFO] 01:27:21:119 cliente/(21866:26092): El primer bloque desocupado es: 1
+[INFO] 01:27:21:119 cliente/(21866:26092): El primer bloque desocupado es: 1
+[INFO] 01:27:21:119 cliente/(21866:26092): Se asigno el bloque 1
+[INFO] 01:27:21:119 cliente/(21866:26092): El primer bloque desocupado es: 2
+[INFO] 01:27:21:119 cliente/(21866:26092): El primer bloque desocupado es: 2
+[INFO] 01:27:21:119 cliente/(21866:26092): Se asigno el bloque 2
+[INFO] 01:27:21:120 cliente/(21866:26092): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:27:25:810 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:27:25:810 cliente/(21866:26126): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:27:25:810 cliente/(21866:26126): Creado el archivo .AFIP del pedido 3
+[INFO] 01:27:25:810 cliente/(21866:26126): El primer bloque desocupado es: 38
+[INFO] 01:27:25:810 cliente/(21866:26126): Se asigno el bloque 38
+[INFO] 01:27:25:810 cliente/(21866:26126): El primer bloque desocupado es: 39
+[INFO] 01:27:25:810 cliente/(21866:26126): El primer bloque desocupado es: 39
+[INFO] 01:27:25:811 cliente/(21866:26126): Se asigno el bloque 39
+[INFO] 01:27:25:811 cliente/(21866:26126): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido3.afip
+[INFO] 01:27:25:811 cliente/(21866:26126): Se desasignó el bloque 3
+[INFO] 01:27:25:811 cliente/(21866:26126): Se desasignó el bloque 4
+[INFO] 01:27:25:811 cliente/(21866:26126): Se desasignó el bloque 5
+[INFO] 01:27:25:811 cliente/(21866:26126): El primer bloque desocupado es: 3
+[INFO] 01:27:25:811 cliente/(21866:26126): Se asigno el bloque 3
+[INFO] 01:27:25:811 cliente/(21866:26126): El primer bloque desocupado es: 4
+[INFO] 01:27:25:811 cliente/(21866:26126): El primer bloque desocupado es: 4
+[INFO] 01:27:25:811 cliente/(21866:26126): Se asigno el bloque 4
+[INFO] 01:27:25:811 cliente/(21866:26126): El primer bloque desocupado es: 5
+[INFO] 01:27:25:811 cliente/(21866:26126): El primer bloque desocupado es: 5
+[INFO] 01:27:25:811 cliente/(21866:26126): Se asigno el bloque 5
+[INFO] 01:27:25:812 cliente/(21866:26126): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:27:43:908 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:27:43:908 cliente/(21866:26149): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:27:43:923 cliente/(21866:26149): Se desasignó el bloque 34
+[INFO] 01:27:43:923 cliente/(21866:26149): Se desasignó el bloque 35
+[INFO] 01:27:43:923 cliente/(21866:26149): El primer bloque desocupado es: 34
+[INFO] 01:27:43:923 cliente/(21866:26149): Se asigno el bloque 34
+[INFO] 01:27:43:923 cliente/(21866:26149): El primer bloque desocupado es: 35
+[INFO] 01:27:43:923 cliente/(21866:26149): El primer bloque desocupado es: 35
+[INFO] 01:27:43:923 cliente/(21866:26149): Se asigno el bloque 35
+[INFO] 01:27:43:923 cliente/(21866:26149): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:27:56:325 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:27:56:325 cliente/(21866:26179): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:27:56:334 cliente/(21866:26179): Se desasignó el bloque 38
+[INFO] 01:27:56:334 cliente/(21866:26179): Se desasignó el bloque 39
+[INFO] 01:27:56:334 cliente/(21866:26179): El primer bloque desocupado es: 38
+[INFO] 01:27:56:334 cliente/(21866:26179): Se asigno el bloque 38
+[INFO] 01:27:56:334 cliente/(21866:26179): El primer bloque desocupado es: 39
+[INFO] 01:27:56:334 cliente/(21866:26179): El primer bloque desocupado es: 39
+[INFO] 01:27:56:334 cliente/(21866:26179): Se asigno el bloque 39
+[INFO] 01:27:56:334 cliente/(21866:26179): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:15:9 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:15:9 cliente/(21866:26204): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:15:16 cliente/(21866:26204): Se desasignó el bloque 38
+[INFO] 01:28:15:16 cliente/(21866:26204): Se desasignó el bloque 39
+[INFO] 01:28:15:16 cliente/(21866:26204): El primer bloque desocupado es: 38
+[INFO] 01:28:15:16 cliente/(21866:26204): Se asigno el bloque 38
+[INFO] 01:28:15:16 cliente/(21866:26204): El primer bloque desocupado es: 39
+[INFO] 01:28:15:16 cliente/(21866:26204): El primer bloque desocupado es: 39
+[INFO] 01:28:15:16 cliente/(21866:26204): Se asigno el bloque 39
+[INFO] 01:28:15:16 cliente/(21866:26204): El primer bloque desocupado es: 40
+[INFO] 01:28:15:16 cliente/(21866:26204): El primer bloque desocupado es: 40
+[INFO] 01:28:15:16 cliente/(21866:26204): Se asigno el bloque 40
+[INFO] 01:28:15:17 cliente/(21866:26204): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:20:371 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:20:371 cliente/(21866:26234): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:20:381 cliente/(21866:26234): Se desasignó el bloque 38
+[INFO] 01:28:20:381 cliente/(21866:26234): Se desasignó el bloque 39
+[INFO] 01:28:20:381 cliente/(21866:26234): Se desasignó el bloque 40
+[INFO] 01:28:20:381 cliente/(21866:26234): El primer bloque desocupado es: 38
+[INFO] 01:28:20:381 cliente/(21866:26234): Se asigno el bloque 38
+[INFO] 01:28:20:381 cliente/(21866:26234): El primer bloque desocupado es: 39
+[INFO] 01:28:20:381 cliente/(21866:26234): El primer bloque desocupado es: 39
+[INFO] 01:28:20:381 cliente/(21866:26234): Se asigno el bloque 39
+[INFO] 01:28:20:381 cliente/(21866:26234): El primer bloque desocupado es: 40
+[INFO] 01:28:20:381 cliente/(21866:26234): El primer bloque desocupado es: 40
+[INFO] 01:28:20:381 cliente/(21866:26234): Se asigno el bloque 40
+[INFO] 01:28:20:382 cliente/(21866:26234): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:32:208 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:32:208 cliente/(21866:26246): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:32:218 cliente/(21866:26246): Se desasignó el bloque 36
+[INFO] 01:28:32:218 cliente/(21866:26246): Se desasignó el bloque 37
+[INFO] 01:28:32:218 cliente/(21866:26246): El primer bloque desocupado es: 36
+[INFO] 01:28:32:218 cliente/(21866:26246): Se asigno el bloque 36
+[INFO] 01:28:32:218 cliente/(21866:26246): El primer bloque desocupado es: 37
+[INFO] 01:28:32:218 cliente/(21866:26246): El primer bloque desocupado es: 37
+[INFO] 01:28:32:218 cliente/(21866:26246): Se asigno el bloque 37
+[INFO] 01:28:32:218 cliente/(21866:26246): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:38:168 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:38:168 cliente/(21866:26276): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:38:176 cliente/(21866:26276): Se desasignó el bloque 36
+[INFO] 01:28:38:176 cliente/(21866:26276): Se desasignó el bloque 37
+[INFO] 01:28:38:176 cliente/(21866:26276): El primer bloque desocupado es: 36
+[INFO] 01:28:38:176 cliente/(21866:26276): Se asigno el bloque 36
+[INFO] 01:28:38:176 cliente/(21866:26276): El primer bloque desocupado es: 37
+[INFO] 01:28:38:176 cliente/(21866:26276): El primer bloque desocupado es: 37
+[INFO] 01:28:38:176 cliente/(21866:26276): Se asigno el bloque 37
+[INFO] 01:28:38:176 cliente/(21866:26276): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:38:904 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:38:904 cliente/(21866:26283): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:38:905 cliente/(21866:26283): Se desasignó el bloque 36
+[INFO] 01:28:38:905 cliente/(21866:26283): Se desasignó el bloque 37
+[INFO] 01:28:38:905 cliente/(21866:26283): El primer bloque desocupado es: 36
+[INFO] 01:28:38:905 cliente/(21866:26283): Se asigno el bloque 36
+[INFO] 01:28:38:905 cliente/(21866:26283): El primer bloque desocupado es: 37
+[INFO] 01:28:38:905 cliente/(21866:26283): El primer bloque desocupado es: 37
+[INFO] 01:28:38:905 cliente/(21866:26283): Se asigno el bloque 37
+[INFO] 01:28:38:905 cliente/(21866:26283): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:40:28 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:40:28 cliente/(21866:26291): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:40:29 cliente/(21866:26291): Se desasignó el bloque 36
+[INFO] 01:28:40:29 cliente/(21866:26291): Se desasignó el bloque 37
+[INFO] 01:28:40:29 cliente/(21866:26291): El primer bloque desocupado es: 36
+[INFO] 01:28:40:29 cliente/(21866:26291): Se asigno el bloque 36
+[INFO] 01:28:40:29 cliente/(21866:26291): El primer bloque desocupado es: 37
+[INFO] 01:28:40:29 cliente/(21866:26291): El primer bloque desocupado es: 37
+[INFO] 01:28:40:29 cliente/(21866:26291): Se asigno el bloque 37
+[INFO] 01:28:40:29 cliente/(21866:26291): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:49:374 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:49:375 cliente/(21866:26299): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:49:397 cliente/(21866:26299): Se desasignó el bloque 36
+[INFO] 01:28:49:397 cliente/(21866:26299): Se desasignó el bloque 37
+[INFO] 01:28:49:397 cliente/(21866:26299): El primer bloque desocupado es: 36
+[INFO] 01:28:49:397 cliente/(21866:26299): Se asigno el bloque 36
+[INFO] 01:28:49:397 cliente/(21866:26299): El primer bloque desocupado es: 37
+[INFO] 01:28:49:397 cliente/(21866:26299): El primer bloque desocupado es: 37
+[INFO] 01:28:49:397 cliente/(21866:26299): Se asigno el bloque 37
+[INFO] 01:28:49:397 cliente/(21866:26299): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:28:56:780 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:28:56:781 cliente/(21866:26310): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:28:56:796 cliente/(21866:26310): Se desasignó el bloque 36
+[INFO] 01:28:56:796 cliente/(21866:26310): Se desasignó el bloque 37
+[INFO] 01:28:56:796 cliente/(21866:26310): El primer bloque desocupado es: 36
+[INFO] 01:28:56:796 cliente/(21866:26310): Se asigno el bloque 36
+[INFO] 01:28:56:796 cliente/(21866:26310): El primer bloque desocupado es: 37
+[INFO] 01:28:56:796 cliente/(21866:26310): El primer bloque desocupado es: 37
+[INFO] 01:28:56:796 cliente/(21866:26310): Se asigno el bloque 37
+[INFO] 01:28:56:796 cliente/(21866:26310): El primer bloque desocupado es: 41
+[INFO] 01:28:56:796 cliente/(21866:26310): El primer bloque desocupado es: 41
+[INFO] 01:28:56:796 cliente/(21866:26310): Se asigno el bloque 41
+[INFO] 01:28:56:797 cliente/(21866:26310): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:29:18:537 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:18:537 cliente/(21866:26328): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:29:18:542 cliente/(21866:26328): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [Choripan,AsadoSeco,AsadoJugoso] [4,1,1] [0,0,0] 900
+[INFO] 01:29:18:542 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:18:542 cliente/(21866:26329): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:29:18:543 cliente/(21866:26329): Se desasignó el bloque 36
+[INFO] 01:29:18:543 cliente/(21866:26329): Se desasignó el bloque 37
+[INFO] 01:29:18:543 cliente/(21866:26329): Se desasignó el bloque 41
+[INFO] 01:29:18:543 cliente/(21866:26329): El primer bloque desocupado es: 36
+[INFO] 01:29:18:543 cliente/(21866:26329): Se asigno el bloque 36
+[INFO] 01:29:18:543 cliente/(21866:26329): El primer bloque desocupado es: 37
+[INFO] 01:29:18:543 cliente/(21866:26329): El primer bloque desocupado es: 37
+[INFO] 01:29:18:543 cliente/(21866:26329): Se asigno el bloque 37
+[INFO] 01:29:18:543 cliente/(21866:26329): El primer bloque desocupado es: 41
+[INFO] 01:29:18:543 cliente/(21866:26329): El primer bloque desocupado es: 41
+[INFO] 01:29:18:543 cliente/(21866:26329): Se asigno el bloque 41
+[INFO] 01:29:18:543 cliente/(21866:26329): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:29:18:543 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:18:543 cliente/(21866:26332): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:29:18:543 cliente/(21866:26332): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [1,2,1]
+[INFO] 01:29:18:544 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:18:544 cliente/(21866:26334): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:29:18:544 cliente/(21866:26334): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,10,2]
+[INFO] 01:29:18:544 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:18:544 cliente/(21866:26336): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:29:18:544 cliente/(21866:26336): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,3,2]
+[INFO] 01:29:25:631 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:25:632 cliente/(21866:26387): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:29:25:643 cliente/(21866:26387): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [WokDeVegetales,TortillaDePapa] [1,2] [0,0] 500
+[INFO] 01:29:25:643 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:25:644 cliente/(21866:26388): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:29:25:644 cliente/(21866:26388): Se desasignó el bloque 38
+[INFO] 01:29:25:644 cliente/(21866:26388): Se desasignó el bloque 39
+[INFO] 01:29:25:644 cliente/(21866:26388): Se desasignó el bloque 40
+[INFO] 01:29:25:644 cliente/(21866:26388): El primer bloque desocupado es: 38
+[INFO] 01:29:25:644 cliente/(21866:26388): Se asigno el bloque 38
+[INFO] 01:29:25:644 cliente/(21866:26388): El primer bloque desocupado es: 39
+[INFO] 01:29:25:644 cliente/(21866:26388): El primer bloque desocupado es: 39
+[INFO] 01:29:25:644 cliente/(21866:26388): Se asigno el bloque 39
+[INFO] 01:29:25:644 cliente/(21866:26388): El primer bloque desocupado es: 40
+[INFO] 01:29:25:644 cliente/(21866:26388): El primer bloque desocupado es: 40
+[INFO] 01:29:25:644 cliente/(21866:26388): Se asigno el bloque 40
+[INFO] 01:29:25:644 cliente/(21866:26388): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:29:25:644 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:25:644 cliente/(21866:26390): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:29:25:644 cliente/(21866:26390): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Condimentar,Servir] [3,1,1]
+[INFO] 01:29:25:645 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:25:645 cliente/(21866:26391): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:29:25:645 cliente/(21866:26391): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+[INFO] 01:29:26:40 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:26:40 cliente/(21866:26398): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:29:26:42 cliente/(21866:26398): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [MilaCompleta] [1] [0] 200
+[INFO] 01:29:26:42 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:26:42 cliente/(21866:26399): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:29:26:42 cliente/(21866:26399): Se desasignó el bloque 34
+[INFO] 01:29:26:42 cliente/(21866:26399): Se desasignó el bloque 35
+[INFO] 01:29:26:42 cliente/(21866:26399): El primer bloque desocupado es: 34
+[INFO] 01:29:26:42 cliente/(21866:26399): Se asigno el bloque 34
+[INFO] 01:29:26:42 cliente/(21866:26399): El primer bloque desocupado es: 35
+[INFO] 01:29:26:42 cliente/(21866:26399): El primer bloque desocupado es: 35
+[INFO] 01:29:26:42 cliente/(21866:26399): Se asigno el bloque 35
+[INFO] 01:29:26:43 cliente/(21866:26399): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:29:26:43 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:26:43 cliente/(21866:26401): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:29:26:43 cliente/(21866:26401): La respuesta al mensaje 'Obtener Receta' fue: [Empanar,Hornear,Servir] [5,2,1]
+[INFO] 01:29:26:544 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:26:545 cliente/(21866:26412): Se recibe mensaje 'Plato Listo'
+[INFO] 01:29:26:549 cliente/(21866:26412): Se desasignó el bloque 36
+[INFO] 01:29:26:549 cliente/(21866:26412): Se desasignó el bloque 37
+[INFO] 01:29:26:549 cliente/(21866:26412): Se desasignó el bloque 41
+[INFO] 01:29:26:549 cliente/(21866:26412): El primer bloque desocupado es: 36
+[INFO] 01:29:26:549 cliente/(21866:26412): Se asigno el bloque 36
+[INFO] 01:29:26:549 cliente/(21866:26412): El primer bloque desocupado es: 37
+[INFO] 01:29:26:549 cliente/(21866:26412): El primer bloque desocupado es: 37
+[INFO] 01:29:26:549 cliente/(21866:26412): Se asigno el bloque 37
+[INFO] 01:29:26:549 cliente/(21866:26412): El primer bloque desocupado es: 41
+[INFO] 01:29:26:549 cliente/(21866:26412): El primer bloque desocupado es: 41
+[INFO] 01:29:26:549 cliente/(21866:26412): Se asigno el bloque 41
+[INFO] 01:29:26:549 cliente/(21866:26412): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:29:34:545 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:34:546 cliente/(21866:26443): Se recibe mensaje 'Plato Listo'
+[INFO] 01:29:34:559 cliente/(21866:26443): Se desasignó el bloque 36
+[INFO] 01:29:34:559 cliente/(21866:26443): Se desasignó el bloque 37
+[INFO] 01:29:34:559 cliente/(21866:26443): Se desasignó el bloque 41
+[INFO] 01:29:34:559 cliente/(21866:26443): El primer bloque desocupado es: 36
+[INFO] 01:29:34:559 cliente/(21866:26443): Se asigno el bloque 36
+[INFO] 01:29:34:559 cliente/(21866:26443): El primer bloque desocupado es: 37
+[INFO] 01:29:34:559 cliente/(21866:26443): El primer bloque desocupado es: 37
+[INFO] 01:29:34:559 cliente/(21866:26443): Se asigno el bloque 37
+[INFO] 01:29:34:559 cliente/(21866:26443): El primer bloque desocupado es: 41
+[INFO] 01:29:34:559 cliente/(21866:26443): El primer bloque desocupado es: 41
+[INFO] 01:29:34:559 cliente/(21866:26443): Se asigno el bloque 41
+[INFO] 01:29:34:560 cliente/(21866:26443): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:29:42:44 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:42:44 cliente/(21866:26462): Se recibe mensaje 'Plato Listo'
+[INFO] 01:29:42:51 cliente/(21866:26462): Se desasignó el bloque 34
+[INFO] 01:29:42:51 cliente/(21866:26462): Se desasignó el bloque 35
+[INFO] 01:29:42:51 cliente/(21866:26462): El primer bloque desocupado es: 34
+[INFO] 01:29:42:51 cliente/(21866:26462): Se asigno el bloque 34
+[INFO] 01:29:42:51 cliente/(21866:26462): El primer bloque desocupado es: 35
+[INFO] 01:29:42:51 cliente/(21866:26462): El primer bloque desocupado es: 35
+[INFO] 01:29:42:51 cliente/(21866:26462): Se asigno el bloque 35
+[INFO] 01:29:42:52 cliente/(21866:26462): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:29:42:52 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:42:52 cliente/(21866:26464): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:29:42:52 cliente/(21866:26464): Se desasignó el bloque 34
+[INFO] 01:29:42:52 cliente/(21866:26464): Se desasignó el bloque 35
+[INFO] 01:29:42:52 cliente/(21866:26464): El primer bloque desocupado es: 34
+[INFO] 01:29:42:52 cliente/(21866:26464): Se asigno el bloque 34
+[INFO] 01:29:42:52 cliente/(21866:26464): El primer bloque desocupado es: 35
+[INFO] 01:29:42:52 cliente/(21866:26464): El primer bloque desocupado es: 35
+[INFO] 01:29:42:52 cliente/(21866:26464): Se asigno el bloque 35
+[INFO] 01:29:42:53 cliente/(21866:26464): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:29:43:646 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:43:646 cliente/(21866:26470): Se recibe mensaje 'Plato Listo'
+[INFO] 01:29:43:650 cliente/(21866:26470): Se desasignó el bloque 38
+[INFO] 01:29:43:650 cliente/(21866:26470): Se desasignó el bloque 39
+[INFO] 01:29:43:650 cliente/(21866:26470): Se desasignó el bloque 40
+[INFO] 01:29:43:650 cliente/(21866:26470): El primer bloque desocupado es: 38
+[INFO] 01:29:43:650 cliente/(21866:26470): Se asigno el bloque 38
+[INFO] 01:29:43:650 cliente/(21866:26470): El primer bloque desocupado es: 39
+[INFO] 01:29:43:650 cliente/(21866:26470): El primer bloque desocupado es: 39
+[INFO] 01:29:43:650 cliente/(21866:26470): Se asigno el bloque 39
+[INFO] 01:29:43:650 cliente/(21866:26470): El primer bloque desocupado es: 40
+[INFO] 01:29:43:650 cliente/(21866:26470): El primer bloque desocupado es: 40
+[INFO] 01:29:43:650 cliente/(21866:26470): Se asigno el bloque 40
+[INFO] 01:29:43:651 cliente/(21866:26470): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:29:51:651 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:51:651 cliente/(21866:26489): Se recibe mensaje 'Plato Listo'
+[INFO] 01:29:51:674 cliente/(21866:26489): Se desasignó el bloque 38
+[INFO] 01:29:51:674 cliente/(21866:26489): Se desasignó el bloque 39
+[INFO] 01:29:51:674 cliente/(21866:26489): Se desasignó el bloque 40
+[INFO] 01:29:51:674 cliente/(21866:26489): El primer bloque desocupado es: 38
+[INFO] 01:29:51:674 cliente/(21866:26489): Se asigno el bloque 38
+[INFO] 01:29:51:674 cliente/(21866:26489): El primer bloque desocupado es: 39
+[INFO] 01:29:51:674 cliente/(21866:26489): El primer bloque desocupado es: 39
+[INFO] 01:29:51:674 cliente/(21866:26489): Se asigno el bloque 39
+[INFO] 01:29:51:674 cliente/(21866:26489): El primer bloque desocupado es: 40
+[INFO] 01:29:51:675 cliente/(21866:26489): El primer bloque desocupado es: 40
+[INFO] 01:29:51:675 cliente/(21866:26489): Se asigno el bloque 40
+[INFO] 01:29:51:675 cliente/(21866:26489): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:29:58:546 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:29:58:547 cliente/(21866:26506): Se recibe mensaje 'Plato Listo'
+[INFO] 01:29:58:547 cliente/(21866:26506): Se desasignó el bloque 36
+[INFO] 01:29:58:547 cliente/(21866:26506): Se desasignó el bloque 37
+[INFO] 01:29:58:547 cliente/(21866:26506): Se desasignó el bloque 41
+[INFO] 01:29:58:547 cliente/(21866:26506): El primer bloque desocupado es: 36
+[INFO] 01:29:58:547 cliente/(21866:26506): Se asigno el bloque 36
+[INFO] 01:29:58:547 cliente/(21866:26506): El primer bloque desocupado es: 37
+[INFO] 01:29:58:547 cliente/(21866:26506): El primer bloque desocupado es: 37
+[INFO] 01:29:58:547 cliente/(21866:26506): Se asigno el bloque 37
+[INFO] 01:29:58:547 cliente/(21866:26506): El primer bloque desocupado es: 41
+[INFO] 01:29:58:547 cliente/(21866:26506): El primer bloque desocupado es: 41
+[INFO] 01:29:58:547 cliente/(21866:26506): Se asigno el bloque 41
+[INFO] 01:29:58:547 cliente/(21866:26506): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:30:00:548 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:30:00:548 cliente/(21866:26514): Se recibe mensaje 'Plato Listo'
+[INFO] 01:30:00:548 cliente/(21866:26514): Se desasignó el bloque 36
+[INFO] 01:30:00:548 cliente/(21866:26514): Se desasignó el bloque 37
+[INFO] 01:30:00:548 cliente/(21866:26514): Se desasignó el bloque 41
+[INFO] 01:30:00:548 cliente/(21866:26514): El primer bloque desocupado es: 36
+[INFO] 01:30:00:548 cliente/(21866:26514): Se asigno el bloque 36
+[INFO] 01:30:00:548 cliente/(21866:26514): El primer bloque desocupado es: 37
+[INFO] 01:30:00:548 cliente/(21866:26514): El primer bloque desocupado es: 37
+[INFO] 01:30:00:548 cliente/(21866:26514): Se asigno el bloque 37
+[INFO] 01:30:00:549 cliente/(21866:26514): El primer bloque desocupado es: 41
+[INFO] 01:30:00:549 cliente/(21866:26514): El primer bloque desocupado es: 41
+[INFO] 01:30:00:549 cliente/(21866:26514): Se asigno el bloque 41
+[INFO] 01:30:00:549 cliente/(21866:26514): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:30:07:676 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:30:07:676 cliente/(21866:26532): Se recibe mensaje 'Plato Listo'
+[INFO] 01:30:07:688 cliente/(21866:26532): Se desasignó el bloque 38
+[INFO] 01:30:07:688 cliente/(21866:26532): Se desasignó el bloque 39
+[INFO] 01:30:07:688 cliente/(21866:26532): Se desasignó el bloque 40
+[INFO] 01:30:07:688 cliente/(21866:26532): El primer bloque desocupado es: 38
+[INFO] 01:30:07:688 cliente/(21866:26532): Se asigno el bloque 38
+[INFO] 01:30:07:688 cliente/(21866:26532): El primer bloque desocupado es: 39
+[INFO] 01:30:07:688 cliente/(21866:26532): El primer bloque desocupado es: 39
+[INFO] 01:30:07:688 cliente/(21866:26532): Se asigno el bloque 39
+[INFO] 01:30:07:688 cliente/(21866:26532): El primer bloque desocupado es: 40
+[INFO] 01:30:07:688 cliente/(21866:26532): El primer bloque desocupado es: 40
+[INFO] 01:30:07:688 cliente/(21866:26532): Se asigno el bloque 40
+[INFO] 01:30:07:688 cliente/(21866:26532): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:30:07:688 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:30:07:688 cliente/(21866:26534): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:30:07:689 cliente/(21866:26534): Se desasignó el bloque 38
+[INFO] 01:30:07:689 cliente/(21866:26534): Se desasignó el bloque 39
+[INFO] 01:30:07:689 cliente/(21866:26534): Se desasignó el bloque 40
+[INFO] 01:30:07:689 cliente/(21866:26534): El primer bloque desocupado es: 38
+[INFO] 01:30:07:689 cliente/(21866:26534): Se asigno el bloque 38
+[INFO] 01:30:07:689 cliente/(21866:26534): El primer bloque desocupado es: 39
+[INFO] 01:30:07:689 cliente/(21866:26534): El primer bloque desocupado es: 39
+[INFO] 01:30:07:689 cliente/(21866:26534): Se asigno el bloque 39
+[INFO] 01:30:07:689 cliente/(21866:26534): El primer bloque desocupado es: 40
+[INFO] 01:30:07:689 cliente/(21866:26534): El primer bloque desocupado es: 40
+[INFO] 01:30:07:689 cliente/(21866:26534): Se asigno el bloque 40
+[INFO] 01:30:07:689 cliente/(21866:26534): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:30:08:550 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:30:08:550 cliente/(21866:26543): Se recibe mensaje 'Plato Listo'
+[INFO] 01:30:08:560 cliente/(21866:26543): Se desasignó el bloque 36
+[INFO] 01:30:08:560 cliente/(21866:26543): Se desasignó el bloque 37
+[INFO] 01:30:08:560 cliente/(21866:26543): Se desasignó el bloque 41
+[INFO] 01:30:08:560 cliente/(21866:26543): El primer bloque desocupado es: 36
+[INFO] 01:30:08:560 cliente/(21866:26543): Se asigno el bloque 36
+[INFO] 01:30:08:560 cliente/(21866:26543): El primer bloque desocupado es: 37
+[INFO] 01:30:08:560 cliente/(21866:26543): El primer bloque desocupado es: 37
+[INFO] 01:30:08:560 cliente/(21866:26543): Se asigno el bloque 37
+[INFO] 01:30:08:560 cliente/(21866:26543): El primer bloque desocupado es: 41
+[INFO] 01:30:08:560 cliente/(21866:26543): El primer bloque desocupado es: 41
+[INFO] 01:30:08:560 cliente/(21866:26543): Se asigno el bloque 41
+[INFO] 01:30:08:560 cliente/(21866:26543): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:30:16:561 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:30:16:561 cliente/(21866:26566): Se recibe mensaje 'Plato Listo'
+[INFO] 01:30:16:566 cliente/(21866:26566): Se desasignó el bloque 36
+[INFO] 01:30:16:566 cliente/(21866:26566): Se desasignó el bloque 37
+[INFO] 01:30:16:566 cliente/(21866:26566): Se desasignó el bloque 41
+[INFO] 01:30:16:566 cliente/(21866:26566): El primer bloque desocupado es: 36
+[INFO] 01:30:16:566 cliente/(21866:26566): Se asigno el bloque 36
+[INFO] 01:30:16:566 cliente/(21866:26566): El primer bloque desocupado es: 37
+[INFO] 01:30:16:566 cliente/(21866:26566): El primer bloque desocupado es: 37
+[INFO] 01:30:16:566 cliente/(21866:26566): Se asigno el bloque 37
+[INFO] 01:30:16:566 cliente/(21866:26566): El primer bloque desocupado es: 41
+[INFO] 01:30:16:566 cliente/(21866:26566): El primer bloque desocupado es: 41
+[INFO] 01:30:16:566 cliente/(21866:26566): Se asigno el bloque 41
+[INFO] 01:30:16:567 cliente/(21866:26566): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:30:16:567 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:30:16:567 cliente/(21866:26567): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:30:16:567 cliente/(21866:26567): Se desasignó el bloque 36
+[INFO] 01:30:16:567 cliente/(21866:26567): Se desasignó el bloque 37
+[INFO] 01:30:16:567 cliente/(21866:26567): Se desasignó el bloque 41
+[INFO] 01:30:16:567 cliente/(21866:26567): El primer bloque desocupado es: 36
+[INFO] 01:30:16:567 cliente/(21866:26567): Se asigno el bloque 36
+[INFO] 01:30:16:567 cliente/(21866:26567): El primer bloque desocupado es: 37
+[INFO] 01:30:16:567 cliente/(21866:26567): El primer bloque desocupado es: 37
+[INFO] 01:30:16:567 cliente/(21866:26567): Se asigno el bloque 37
+[INFO] 01:30:16:567 cliente/(21866:26567): El primer bloque desocupado es: 41
+[INFO] 01:30:16:567 cliente/(21866:26567): El primer bloque desocupado es: 41
+[INFO] 01:30:16:567 cliente/(21866:26567): Se asigno el bloque 41
+[INFO] 01:30:16:568 cliente/(21866:26567): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:37:01:312 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:37:01:312 cliente/(21866:26995): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:37:01:312 cliente/(21866:26995): La respuesta al mensaje 'Obtener Restaurante' fue: 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1 4
+[INFO] 01:37:11:902 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:37:11:902 cliente/(21866:27040): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:37:11:902 cliente/(21866:27040): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1 3
+[INFO] 01:37:23:865 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:37:23:865 cliente/(21866:27072): Se recibe mensaje 'Obtener Restaurante'
+[INFO] 01:37:23:865 cliente/(21866:27072): La respuesta al mensaje 'Obtener Restaurante' fue: 1 [5,5] [] [MilaCompleta] [200] 1 3
+[INFO] 01:38:47:420 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:38:47:420 cliente/(21866:27143): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:38:47:420 cliente/(21866:27143): Creado el archivo .AFIP del pedido 4
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 42
+[INFO] 01:38:47:420 cliente/(21866:27143): Se asigno el bloque 42
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 43
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 43
+[INFO] 01:38:47:420 cliente/(21866:27143): Se asigno el bloque 43
+[INFO] 01:38:47:420 cliente/(21866:27143): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido4.afip
+[INFO] 01:38:47:420 cliente/(21866:27143): Se desasignó el bloque 3
+[INFO] 01:38:47:420 cliente/(21866:27143): Se desasignó el bloque 4
+[INFO] 01:38:47:420 cliente/(21866:27143): Se desasignó el bloque 5
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 3
+[INFO] 01:38:47:420 cliente/(21866:27143): Se asigno el bloque 3
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 4
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 4
+[INFO] 01:38:47:420 cliente/(21866:27143): Se asigno el bloque 4
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 5
+[INFO] 01:38:47:420 cliente/(21866:27143): El primer bloque desocupado es: 5
+[INFO] 01:38:47:420 cliente/(21866:27143): Se asigno el bloque 5
+[INFO] 01:38:47:421 cliente/(21866:27143): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:38:52:432 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:38:52:432 cliente/(21866:27177): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:38:52:432 cliente/(21866:27177): Creado el archivo .AFIP del pedido 4
+[INFO] 01:38:52:432 cliente/(21866:27177): El primer bloque desocupado es: 44
+[INFO] 01:38:52:432 cliente/(21866:27177): Se asigno el bloque 44
+[INFO] 01:38:52:432 cliente/(21866:27177): El primer bloque desocupado es: 45
+[INFO] 01:38:52:432 cliente/(21866:27177): El primer bloque desocupado es: 45
+[INFO] 01:38:52:432 cliente/(21866:27177): Se asigno el bloque 45
+[INFO] 01:38:52:432 cliente/(21866:27177): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido4.afip
+[INFO] 01:38:52:432 cliente/(21866:27177): Se desasignó el bloque 6
+[INFO] 01:38:52:432 cliente/(21866:27177): Se desasignó el bloque 7
+[INFO] 01:38:52:433 cliente/(21866:27177): Se desasignó el bloque 8
+[INFO] 01:38:52:433 cliente/(21866:27177): El primer bloque desocupado es: 6
+[INFO] 01:38:52:433 cliente/(21866:27177): Se asigno el bloque 6
+[INFO] 01:38:52:433 cliente/(21866:27177): El primer bloque desocupado es: 7
+[INFO] 01:38:52:433 cliente/(21866:27177): El primer bloque desocupado es: 7
+[INFO] 01:38:52:433 cliente/(21866:27177): Se asigno el bloque 7
+[INFO] 01:38:52:433 cliente/(21866:27177): El primer bloque desocupado es: 8
+[INFO] 01:38:52:433 cliente/(21866:27177): El primer bloque desocupado es: 8
+[INFO] 01:38:52:433 cliente/(21866:27177): Se asigno el bloque 8
+[INFO] 01:38:52:433 cliente/(21866:27177): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:38:58:84 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:38:58:84 cliente/(21866:27190): Se recibe mensaje 'Guardar Pedido'
+[INFO] 01:38:58:84 cliente/(21866:27190): Creado el archivo .AFIP del pedido 5
+[INFO] 01:38:58:84 cliente/(21866:27190): El primer bloque desocupado es: 46
+[INFO] 01:38:58:84 cliente/(21866:27190): Se asigno el bloque 46
+[INFO] 01:38:58:84 cliente/(21866:27190): El primer bloque desocupado es: 47
+[INFO] 01:38:58:84 cliente/(21866:27190): El primer bloque desocupado es: 47
+[INFO] 01:38:58:84 cliente/(21866:27190): Se asigno el bloque 47
+[INFO] 01:38:58:84 cliente/(21866:27190): Agrega los campos SIZE e INITIAL_BLOCK al archivo Pedido5.afip
+[INFO] 01:38:58:84 cliente/(21866:27190): Se desasignó el bloque 0
+[INFO] 01:38:58:84 cliente/(21866:27190): Se desasignó el bloque 1
+[INFO] 01:38:58:84 cliente/(21866:27190): Se desasignó el bloque 2
+[INFO] 01:38:58:84 cliente/(21866:27190): El primer bloque desocupado es: 0
+[INFO] 01:38:58:85 cliente/(21866:27190): Se asigno el bloque 0
+[INFO] 01:38:58:85 cliente/(21866:27190): El primer bloque desocupado es: 1
+[INFO] 01:38:58:85 cliente/(21866:27190): El primer bloque desocupado es: 1
+[INFO] 01:38:58:85 cliente/(21866:27190): Se asigno el bloque 1
+[INFO] 01:38:58:85 cliente/(21866:27190): El primer bloque desocupado es: 2
+[INFO] 01:38:58:85 cliente/(21866:27190): El primer bloque desocupado es: 2
+[INFO] 01:38:58:85 cliente/(21866:27190): Se asigno el bloque 2
+[INFO] 01:38:58:85 cliente/(21866:27190): La respuesta al mensaje 'Guardar Pedido' fue: OK
+[INFO] 01:39:04:910 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:04:910 cliente/(21866:27200): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:04:931 cliente/(21866:27200): Se desasignó el bloque 46
+[INFO] 01:39:04:931 cliente/(21866:27200): Se desasignó el bloque 47
+[INFO] 01:39:04:931 cliente/(21866:27200): El primer bloque desocupado es: 46
+[INFO] 01:39:04:931 cliente/(21866:27200): Se asigno el bloque 46
+[INFO] 01:39:04:931 cliente/(21866:27200): El primer bloque desocupado es: 47
+[INFO] 01:39:04:931 cliente/(21866:27200): El primer bloque desocupado es: 47
+[INFO] 01:39:04:931 cliente/(21866:27200): Se asigno el bloque 47
+[INFO] 01:39:04:931 cliente/(21866:27200): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:39:12:231 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:12:231 cliente/(21866:27208): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:12:232 cliente/(21866:27208): Se desasignó el bloque 46
+[INFO] 01:39:12:232 cliente/(21866:27208): Se desasignó el bloque 47
+[INFO] 01:39:12:232 cliente/(21866:27208): El primer bloque desocupado es: 46
+[INFO] 01:39:12:232 cliente/(21866:27208): Se asigno el bloque 46
+[INFO] 01:39:12:232 cliente/(21866:27208): El primer bloque desocupado es: 47
+[INFO] 01:39:12:232 cliente/(21866:27208): El primer bloque desocupado es: 47
+[INFO] 01:39:12:232 cliente/(21866:27208): Se asigno el bloque 47
+[INFO] 01:39:12:232 cliente/(21866:27208): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:39:12:739 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:12:739 cliente/(21866:27215): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:12:740 cliente/(21866:27215): Se desasignó el bloque 46
+[INFO] 01:39:12:740 cliente/(21866:27215): Se desasignó el bloque 47
+[INFO] 01:39:12:740 cliente/(21866:27215): El primer bloque desocupado es: 46
+[INFO] 01:39:12:740 cliente/(21866:27215): Se asigno el bloque 46
+[INFO] 01:39:12:740 cliente/(21866:27215): El primer bloque desocupado es: 47
+[INFO] 01:39:12:740 cliente/(21866:27215): El primer bloque desocupado es: 47
+[INFO] 01:39:12:740 cliente/(21866:27215): Se asigno el bloque 47
+[INFO] 01:39:12:740 cliente/(21866:27215): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:39:13:434 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:13:434 cliente/(21866:27224): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:13:534 cliente/(21866:27224): Se desasignó el bloque 46
+[INFO] 01:39:13:534 cliente/(21866:27224): Se desasignó el bloque 47
+[INFO] 01:39:13:534 cliente/(21866:27224): El primer bloque desocupado es: 46
+[INFO] 01:39:13:534 cliente/(21866:27224): Se asigno el bloque 46
+[INFO] 01:39:13:534 cliente/(21866:27224): El primer bloque desocupado es: 47
+[INFO] 01:39:13:534 cliente/(21866:27224): El primer bloque desocupado es: 47
+[INFO] 01:39:13:534 cliente/(21866:27224): Se asigno el bloque 47
+[INFO] 01:39:13:572 cliente/(21866:27224): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:39:24:86 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:24:86 cliente/(21866:27238): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:24:102 cliente/(21866:27238): Se desasignó el bloque 46
+[INFO] 01:39:24:102 cliente/(21866:27238): Se desasignó el bloque 47
+[INFO] 01:39:24:102 cliente/(21866:27238): El primer bloque desocupado es: 46
+[INFO] 01:39:24:102 cliente/(21866:27238): Se asigno el bloque 46
+[INFO] 01:39:24:102 cliente/(21866:27238): El primer bloque desocupado es: 47
+[INFO] 01:39:24:102 cliente/(21866:27238): El primer bloque desocupado es: 47
+[INFO] 01:39:24:102 cliente/(21866:27238): Se asigno el bloque 47
+[INFO] 01:39:24:102 cliente/(21866:27238): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:39:32:20 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:32:20 cliente/(21866:27275): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:32:58 cliente/(21866:27275): Se desasignó el bloque 46
+[INFO] 01:39:32:58 cliente/(21866:27275): Se desasignó el bloque 47
+[INFO] 01:39:32:58 cliente/(21866:27275): El primer bloque desocupado es: 46
+[INFO] 01:39:32:58 cliente/(21866:27275): Se asigno el bloque 46
+[INFO] 01:39:32:58 cliente/(21866:27275): El primer bloque desocupado es: 47
+[INFO] 01:39:32:58 cliente/(21866:27275): El primer bloque desocupado es: 47
+[INFO] 01:39:32:58 cliente/(21866:27275): Se asigno el bloque 47
+[INFO] 01:39:32:58 cliente/(21866:27275): El primer bloque desocupado es: 48
+[INFO] 01:39:32:58 cliente/(21866:27275): El primer bloque desocupado es: 48
+[INFO] 01:39:32:58 cliente/(21866:27275): Se asigno el bloque 48
+[INFO] 01:39:32:58 cliente/(21866:27275): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:39:46:255 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:39:46:255 cliente/(21866:27299): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:39:46:266 cliente/(21866:27299): Se desasignó el bloque 42
+[INFO] 01:39:46:266 cliente/(21866:27299): Se desasignó el bloque 43
+[INFO] 01:39:46:266 cliente/(21866:27299): El primer bloque desocupado es: 42
+[INFO] 01:39:46:266 cliente/(21866:27299): Se asigno el bloque 42
+[INFO] 01:39:46:266 cliente/(21866:27299): El primer bloque desocupado es: 43
+[INFO] 01:39:46:266 cliente/(21866:27299): El primer bloque desocupado es: 43
+[INFO] 01:39:46:266 cliente/(21866:27299): Se asigno el bloque 43
+[INFO] 01:39:46:267 cliente/(21866:27299): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:40:01:371 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:01:371 cliente/(21866:27326): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:40:01:383 cliente/(21866:27326): Se desasignó el bloque 42
+[INFO] 01:40:01:383 cliente/(21866:27326): Se desasignó el bloque 43
+[INFO] 01:40:01:383 cliente/(21866:27326): El primer bloque desocupado es: 42
+[INFO] 01:40:01:383 cliente/(21866:27326): Se asigno el bloque 42
+[INFO] 01:40:01:383 cliente/(21866:27326): El primer bloque desocupado es: 43
+[INFO] 01:40:01:383 cliente/(21866:27326): El primer bloque desocupado es: 43
+[INFO] 01:40:01:383 cliente/(21866:27326): Se asigno el bloque 43
+[INFO] 01:40:01:383 cliente/(21866:27326): El primer bloque desocupado es: 49
+[INFO] 01:40:01:383 cliente/(21866:27326): El primer bloque desocupado es: 49
+[INFO] 01:40:01:383 cliente/(21866:27326): Se asigno el bloque 49
+[INFO] 01:40:01:383 cliente/(21866:27326): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:40:07:113 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:07:113 cliente/(21866:27358): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:40:07:119 cliente/(21866:27358): Se desasignó el bloque 42
+[INFO] 01:40:07:119 cliente/(21866:27358): Se desasignó el bloque 43
+[INFO] 01:40:07:119 cliente/(21866:27358): Se desasignó el bloque 49
+[INFO] 01:40:07:119 cliente/(21866:27358): El primer bloque desocupado es: 42
+[INFO] 01:40:07:119 cliente/(21866:27358): Se asigno el bloque 42
+[INFO] 01:40:07:119 cliente/(21866:27358): El primer bloque desocupado es: 43
+[INFO] 01:40:07:119 cliente/(21866:27358): El primer bloque desocupado es: 43
+[INFO] 01:40:07:119 cliente/(21866:27358): Se asigno el bloque 43
+[INFO] 01:40:07:119 cliente/(21866:27358): El primer bloque desocupado es: 49
+[INFO] 01:40:07:119 cliente/(21866:27358): El primer bloque desocupado es: 49
+[INFO] 01:40:07:119 cliente/(21866:27358): Se asigno el bloque 49
+[INFO] 01:40:07:120 cliente/(21866:27358): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:40:34:76 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:34:77 cliente/(21866:27373): Se recibe mensaje 'Guardar Plato'
+[INFO] 01:40:34:77 cliente/(21866:27373): Se desasignó el bloque 44
+[INFO] 01:40:34:77 cliente/(21866:27373): Se desasignó el bloque 45
+[INFO] 01:40:34:77 cliente/(21866:27373): El primer bloque desocupado es: 44
+[INFO] 01:40:34:77 cliente/(21866:27373): Se asigno el bloque 44
+[INFO] 01:40:34:77 cliente/(21866:27373): El primer bloque desocupado es: 45
+[INFO] 01:40:34:77 cliente/(21866:27373): El primer bloque desocupado es: 45
+[INFO] 01:40:34:77 cliente/(21866:27373): Se asigno el bloque 45
+[INFO] 01:40:34:78 cliente/(21866:27373): La respuesta al mensaje 'Guardar Plato' fue: OK
+[INFO] 01:40:55:705 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:55:705 cliente/(21866:27408): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:40:55:712 cliente/(21866:27408): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [Choripan,AsadoJugoso,AsadoSeco] [4,1,1] [0,0,0] 900
+[INFO] 01:40:55:712 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:55:712 cliente/(21866:27409): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:40:55:712 cliente/(21866:27409): Se desasignó el bloque 46
+[INFO] 01:40:55:712 cliente/(21866:27409): Se desasignó el bloque 47
+[INFO] 01:40:55:712 cliente/(21866:27409): Se desasignó el bloque 48
+[INFO] 01:40:55:712 cliente/(21866:27409): El primer bloque desocupado es: 46
+[INFO] 01:40:55:712 cliente/(21866:27409): Se asigno el bloque 46
+[INFO] 01:40:55:712 cliente/(21866:27409): El primer bloque desocupado es: 47
+[INFO] 01:40:55:712 cliente/(21866:27409): El primer bloque desocupado es: 47
+[INFO] 01:40:55:712 cliente/(21866:27409): Se asigno el bloque 47
+[INFO] 01:40:55:712 cliente/(21866:27409): El primer bloque desocupado es: 48
+[INFO] 01:40:55:712 cliente/(21866:27409): El primer bloque desocupado es: 48
+[INFO] 01:40:55:712 cliente/(21866:27409): Se asigno el bloque 48
+[INFO] 01:40:55:713 cliente/(21866:27409): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:40:55:713 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:55:713 cliente/(21866:27413): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:40:55:713 cliente/(21866:27413): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [1,2,1]
+[INFO] 01:40:55:713 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:55:713 cliente/(21866:27415): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:40:55:713 cliente/(21866:27415): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,3,2]
+[INFO] 01:40:55:713 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:55:713 cliente/(21866:27417): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:40:55:714 cliente/(21866:27417): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hornear,Servir] [3,10,2]
+[INFO] 01:40:56:362 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:56:362 cliente/(21866:27444): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:40:56:371 cliente/(21866:27444): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [MilaCompleta] [1] [0] 200
+[INFO] 01:40:56:371 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:56:371 cliente/(21866:27445): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:40:56:371 cliente/(21866:27445): Se desasignó el bloque 44
+[INFO] 01:40:56:371 cliente/(21866:27445): Se desasignó el bloque 45
+[INFO] 01:40:56:371 cliente/(21866:27445): El primer bloque desocupado es: 44
+[INFO] 01:40:56:371 cliente/(21866:27445): Se asigno el bloque 44
+[INFO] 01:40:56:371 cliente/(21866:27445): El primer bloque desocupado es: 45
+[INFO] 01:40:56:371 cliente/(21866:27445): El primer bloque desocupado es: 45
+[INFO] 01:40:56:371 cliente/(21866:27445): Se asigno el bloque 45
+[INFO] 01:40:56:372 cliente/(21866:27445): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:40:56:372 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:56:372 cliente/(21866:27449): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:40:56:372 cliente/(21866:27449): La respuesta al mensaje 'Obtener Receta' fue: [Empanar,Hornear,Servir] [5,2,1]
+[INFO] 01:40:57:104 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:57:104 cliente/(21866:27458): Se recibe mensaje 'Obtener Pedido'
+[INFO] 01:40:57:116 cliente/(21866:27458): La respuesta al mensaje 'Obtener Pedido' fue: Pendiente [WokDeVegetales,TortillaDePapa] [1,2] [0,0] 500
+[INFO] 01:40:57:116 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:57:116 cliente/(21866:27459): Se recibe mensaje 'Confirmar Pedido'
+[INFO] 01:40:57:116 cliente/(21866:27459): Se desasignó el bloque 42
+[INFO] 01:40:57:116 cliente/(21866:27459): Se desasignó el bloque 43
+[INFO] 01:40:57:116 cliente/(21866:27459): Se desasignó el bloque 49
+[INFO] 01:40:57:116 cliente/(21866:27459): El primer bloque desocupado es: 42
+[INFO] 01:40:57:116 cliente/(21866:27459): Se asigno el bloque 42
+[INFO] 01:40:57:116 cliente/(21866:27459): El primer bloque desocupado es: 43
+[INFO] 01:40:57:116 cliente/(21866:27459): El primer bloque desocupado es: 43
+[INFO] 01:40:57:116 cliente/(21866:27459): Se asigno el bloque 43
+[INFO] 01:40:57:116 cliente/(21866:27459): El primer bloque desocupado es: 49
+[INFO] 01:40:57:116 cliente/(21866:27459): El primer bloque desocupado es: 49
+[INFO] 01:40:57:117 cliente/(21866:27459): Se asigno el bloque 49
+[INFO] 01:40:57:117 cliente/(21866:27459): La respuesta al mensaje 'Confirmar Pedido' fue: OK
+[INFO] 01:40:57:117 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:57:117 cliente/(21866:27462): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:40:57:117 cliente/(21866:27462): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Condimentar,Servir] [3,1,1]
+[INFO] 01:40:57:117 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:40:57:117 cliente/(21866:27463): Se recibe mensaje 'Obtener Receta'
+[INFO] 01:40:57:118 cliente/(21866:27463): La respuesta al mensaje 'Obtener Receta' fue: [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+[INFO] 01:41:03:714 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:03:714 cliente/(21866:27479): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:03:720 cliente/(21866:27479): Se desasignó el bloque 46
+[INFO] 01:41:03:720 cliente/(21866:27479): Se desasignó el bloque 47
+[INFO] 01:41:03:720 cliente/(21866:27479): Se desasignó el bloque 48
+[INFO] 01:41:03:720 cliente/(21866:27479): El primer bloque desocupado es: 46
+[INFO] 01:41:03:720 cliente/(21866:27479): Se asigno el bloque 46
+[INFO] 01:41:03:720 cliente/(21866:27479): El primer bloque desocupado es: 47
+[INFO] 01:41:03:720 cliente/(21866:27479): El primer bloque desocupado es: 47
+[INFO] 01:41:03:720 cliente/(21866:27479): Se asigno el bloque 47
+[INFO] 01:41:03:720 cliente/(21866:27479): El primer bloque desocupado es: 48
+[INFO] 01:41:03:720 cliente/(21866:27479): El primer bloque desocupado es: 48
+[INFO] 01:41:03:720 cliente/(21866:27479): Se asigno el bloque 48
+[INFO] 01:41:03:720 cliente/(21866:27479): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:11:715 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:11:715 cliente/(21866:27489): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:11:720 cliente/(21866:27489): Se desasignó el bloque 46
+[INFO] 01:41:11:720 cliente/(21866:27489): Se desasignó el bloque 47
+[INFO] 01:41:11:720 cliente/(21866:27489): Se desasignó el bloque 48
+[INFO] 01:41:11:720 cliente/(21866:27489): El primer bloque desocupado es: 46
+[INFO] 01:41:11:720 cliente/(21866:27489): Se asigno el bloque 46
+[INFO] 01:41:11:720 cliente/(21866:27489): El primer bloque desocupado es: 47
+[INFO] 01:41:11:720 cliente/(21866:27489): El primer bloque desocupado es: 47
+[INFO] 01:41:11:720 cliente/(21866:27489): Se asigno el bloque 47
+[INFO] 01:41:11:720 cliente/(21866:27489): El primer bloque desocupado es: 48
+[INFO] 01:41:11:720 cliente/(21866:27489): El primer bloque desocupado es: 48
+[INFO] 01:41:11:720 cliente/(21866:27489): Se asigno el bloque 48
+[INFO] 01:41:11:742 cliente/(21866:27489): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:12:373 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:12:373 cliente/(21866:27497): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:12:373 cliente/(21866:27497): Se desasignó el bloque 44
+[INFO] 01:41:12:373 cliente/(21866:27497): Se desasignó el bloque 45
+[INFO] 01:41:12:373 cliente/(21866:27497): El primer bloque desocupado es: 44
+[INFO] 01:41:12:374 cliente/(21866:27497): Se asigno el bloque 44
+[INFO] 01:41:12:374 cliente/(21866:27497): El primer bloque desocupado es: 45
+[INFO] 01:41:12:374 cliente/(21866:27497): El primer bloque desocupado es: 45
+[INFO] 01:41:12:374 cliente/(21866:27497): Se asigno el bloque 45
+[INFO] 01:41:12:374 cliente/(21866:27497): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:12:374 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:12:374 cliente/(21866:27498): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:41:12:374 cliente/(21866:27498): Se desasignó el bloque 44
+[INFO] 01:41:12:374 cliente/(21866:27498): Se desasignó el bloque 45
+[INFO] 01:41:12:374 cliente/(21866:27498): El primer bloque desocupado es: 44
+[INFO] 01:41:12:374 cliente/(21866:27498): Se asigno el bloque 44
+[INFO] 01:41:12:374 cliente/(21866:27498): El primer bloque desocupado es: 45
+[INFO] 01:41:12:374 cliente/(21866:27498): El primer bloque desocupado es: 45
+[INFO] 01:41:12:374 cliente/(21866:27498): Se asigno el bloque 45
+[INFO] 01:41:12:375 cliente/(21866:27498): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:41:15:118 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:15:119 cliente/(21866:27506): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:15:126 cliente/(21866:27506): Se desasignó el bloque 42
+[INFO] 01:41:15:126 cliente/(21866:27506): Se desasignó el bloque 43
+[INFO] 01:41:15:126 cliente/(21866:27506): Se desasignó el bloque 49
+[INFO] 01:41:15:126 cliente/(21866:27506): El primer bloque desocupado es: 42
+[INFO] 01:41:15:126 cliente/(21866:27506): Se asigno el bloque 42
+[INFO] 01:41:15:126 cliente/(21866:27506): El primer bloque desocupado es: 43
+[INFO] 01:41:15:126 cliente/(21866:27506): El primer bloque desocupado es: 43
+[INFO] 01:41:15:126 cliente/(21866:27506): Se asigno el bloque 43
+[INFO] 01:41:15:126 cliente/(21866:27506): El primer bloque desocupado es: 49
+[INFO] 01:41:15:126 cliente/(21866:27506): El primer bloque desocupado es: 49
+[INFO] 01:41:15:126 cliente/(21866:27506): Se asigno el bloque 49
+[INFO] 01:41:15:127 cliente/(21866:27506): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:23:127 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:23:127 cliente/(21866:27530): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:23:134 cliente/(21866:27530): Se desasignó el bloque 42
+[INFO] 01:41:23:134 cliente/(21866:27530): Se desasignó el bloque 43
+[INFO] 01:41:23:134 cliente/(21866:27530): Se desasignó el bloque 49
+[INFO] 01:41:23:135 cliente/(21866:27530): El primer bloque desocupado es: 42
+[INFO] 01:41:23:135 cliente/(21866:27530): Se asigno el bloque 42
+[INFO] 01:41:23:135 cliente/(21866:27530): El primer bloque desocupado es: 43
+[INFO] 01:41:23:135 cliente/(21866:27530): El primer bloque desocupado es: 43
+[INFO] 01:41:23:135 cliente/(21866:27530): Se asigno el bloque 43
+[INFO] 01:41:23:135 cliente/(21866:27530): El primer bloque desocupado es: 49
+[INFO] 01:41:23:135 cliente/(21866:27530): El primer bloque desocupado es: 49
+[INFO] 01:41:23:135 cliente/(21866:27530): Se asigno el bloque 49
+[INFO] 01:41:23:135 cliente/(21866:27530): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:35:716 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:35:716 cliente/(21866:27561): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:35:721 cliente/(21866:27561): Se desasignó el bloque 46
+[INFO] 01:41:35:721 cliente/(21866:27561): Se desasignó el bloque 47
+[INFO] 01:41:35:721 cliente/(21866:27561): Se desasignó el bloque 48
+[INFO] 01:41:35:721 cliente/(21866:27561): El primer bloque desocupado es: 46
+[INFO] 01:41:35:721 cliente/(21866:27561): Se asigno el bloque 46
+[INFO] 01:41:35:721 cliente/(21866:27561): El primer bloque desocupado es: 47
+[INFO] 01:41:35:721 cliente/(21866:27561): El primer bloque desocupado es: 47
+[INFO] 01:41:35:721 cliente/(21866:27561): Se asigno el bloque 47
+[INFO] 01:41:35:721 cliente/(21866:27561): El primer bloque desocupado es: 48
+[INFO] 01:41:35:721 cliente/(21866:27561): El primer bloque desocupado es: 48
+[INFO] 01:41:35:721 cliente/(21866:27561): Se asigno el bloque 48
+[INFO] 01:41:35:721 cliente/(21866:27561): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:37:721 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:37:722 cliente/(21866:27586): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:37:722 cliente/(21866:27586): Se desasignó el bloque 46
+[INFO] 01:41:37:722 cliente/(21866:27586): Se desasignó el bloque 47
+[INFO] 01:41:37:722 cliente/(21866:27586): Se desasignó el bloque 48
+[INFO] 01:41:37:722 cliente/(21866:27586): El primer bloque desocupado es: 46
+[INFO] 01:41:37:722 cliente/(21866:27586): Se asigno el bloque 46
+[INFO] 01:41:37:722 cliente/(21866:27586): El primer bloque desocupado es: 47
+[INFO] 01:41:37:722 cliente/(21866:27586): El primer bloque desocupado es: 47
+[INFO] 01:41:37:722 cliente/(21866:27586): Se asigno el bloque 47
+[INFO] 01:41:37:722 cliente/(21866:27586): El primer bloque desocupado es: 48
+[INFO] 01:41:37:722 cliente/(21866:27586): El primer bloque desocupado es: 48
+[INFO] 01:41:37:722 cliente/(21866:27586): Se asigno el bloque 48
+[INFO] 01:41:37:722 cliente/(21866:27586): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:39:136 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:39:136 cliente/(21866:27595): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:39:144 cliente/(21866:27595): Se desasignó el bloque 42
+[INFO] 01:41:39:144 cliente/(21866:27595): Se desasignó el bloque 43
+[INFO] 01:41:39:144 cliente/(21866:27595): Se desasignó el bloque 49
+[INFO] 01:41:39:144 cliente/(21866:27595): El primer bloque desocupado es: 42
+[INFO] 01:41:39:144 cliente/(21866:27595): Se asigno el bloque 42
+[INFO] 01:41:39:144 cliente/(21866:27595): El primer bloque desocupado es: 43
+[INFO] 01:41:39:144 cliente/(21866:27595): El primer bloque desocupado es: 43
+[INFO] 01:41:39:144 cliente/(21866:27595): Se asigno el bloque 43
+[INFO] 01:41:39:144 cliente/(21866:27595): El primer bloque desocupado es: 49
+[INFO] 01:41:39:144 cliente/(21866:27595): El primer bloque desocupado es: 49
+[INFO] 01:41:39:144 cliente/(21866:27595): Se asigno el bloque 49
+[INFO] 01:41:39:144 cliente/(21866:27595): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:39:144 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:39:144 cliente/(21866:27596): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:41:39:145 cliente/(21866:27596): Se desasignó el bloque 42
+[INFO] 01:41:39:145 cliente/(21866:27596): Se desasignó el bloque 43
+[INFO] 01:41:39:145 cliente/(21866:27596): Se desasignó el bloque 49
+[INFO] 01:41:39:145 cliente/(21866:27596): El primer bloque desocupado es: 42
+[INFO] 01:41:39:145 cliente/(21866:27596): Se asigno el bloque 42
+[INFO] 01:41:39:145 cliente/(21866:27596): El primer bloque desocupado es: 43
+[INFO] 01:41:39:145 cliente/(21866:27596): El primer bloque desocupado es: 43
+[INFO] 01:41:39:145 cliente/(21866:27596): Se asigno el bloque 43
+[INFO] 01:41:39:145 cliente/(21866:27596): El primer bloque desocupado es: 49
+[INFO] 01:41:39:145 cliente/(21866:27596): El primer bloque desocupado es: 49
+[INFO] 01:41:39:145 cliente/(21866:27596): Se asigno el bloque 49
+[INFO] 01:41:39:145 cliente/(21866:27596): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 01:41:45:723 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:45:723 cliente/(21866:27606): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:45:724 cliente/(21866:27606): Se desasignó el bloque 46
+[INFO] 01:41:45:724 cliente/(21866:27606): Se desasignó el bloque 47
+[INFO] 01:41:45:724 cliente/(21866:27606): Se desasignó el bloque 48
+[INFO] 01:41:45:724 cliente/(21866:27606): El primer bloque desocupado es: 46
+[INFO] 01:41:45:724 cliente/(21866:27606): Se asigno el bloque 46
+[INFO] 01:41:45:724 cliente/(21866:27606): El primer bloque desocupado es: 47
+[INFO] 01:41:45:724 cliente/(21866:27606): El primer bloque desocupado es: 47
+[INFO] 01:41:45:724 cliente/(21866:27606): Se asigno el bloque 47
+[INFO] 01:41:45:724 cliente/(21866:27606): El primer bloque desocupado es: 48
+[INFO] 01:41:45:724 cliente/(21866:27606): El primer bloque desocupado es: 48
+[INFO] 01:41:45:724 cliente/(21866:27606): Se asigno el bloque 48
+[INFO] 01:41:45:724 cliente/(21866:27606): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:53:725 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:53:725 cliente/(21866:27619): Se recibe mensaje 'Plato Listo'
+[INFO] 01:41:53:735 cliente/(21866:27619): Se desasignó el bloque 46
+[INFO] 01:41:53:735 cliente/(21866:27619): Se desasignó el bloque 47
+[INFO] 01:41:53:735 cliente/(21866:27619): Se desasignó el bloque 48
+[INFO] 01:41:53:735 cliente/(21866:27619): El primer bloque desocupado es: 46
+[INFO] 01:41:53:735 cliente/(21866:27619): Se asigno el bloque 46
+[INFO] 01:41:53:735 cliente/(21866:27619): El primer bloque desocupado es: 47
+[INFO] 01:41:53:735 cliente/(21866:27619): El primer bloque desocupado es: 47
+[INFO] 01:41:53:735 cliente/(21866:27619): Se asigno el bloque 47
+[INFO] 01:41:53:735 cliente/(21866:27619): El primer bloque desocupado es: 48
+[INFO] 01:41:53:735 cliente/(21866:27619): El primer bloque desocupado es: 48
+[INFO] 01:41:53:735 cliente/(21866:27619): Se asigno el bloque 48
+[INFO] 01:41:53:735 cliente/(21866:27619): La respuesta al mensaje 'Plato Listo' fue: OK
+[INFO] 01:41:53:735 cliente/(21866:21866): Se conecto un restaurante
+[INFO] 01:41:53:735 cliente/(21866:27621): Se recibe mensaje 'Terminar Pedido'
+[INFO] 01:41:53:736 cliente/(21866:27621): Se desasignó el bloque 46
+[INFO] 01:41:53:736 cliente/(21866:27621): Se desasignó el bloque 47
+[INFO] 01:41:53:736 cliente/(21866:27621): Se desasignó el bloque 48
+[INFO] 01:41:53:736 cliente/(21866:27621): El primer bloque desocupado es: 46
+[INFO] 01:41:53:736 cliente/(21866:27621): Se asigno el bloque 46
+[INFO] 01:41:53:736 cliente/(21866:27621): El primer bloque desocupado es: 47
+[INFO] 01:41:53:736 cliente/(21866:27621): El primer bloque desocupado es: 47
+[INFO] 01:41:53:736 cliente/(21866:27621): Se asigno el bloque 47
+[INFO] 01:41:53:736 cliente/(21866:27621): El primer bloque desocupado es: 48
+[INFO] 01:41:53:736 cliente/(21866:27621): El primer bloque desocupado es: 48
+[INFO] 01:41:53:736 cliente/(21866:27621): Se asigno el bloque 48
+[INFO] 01:41:53:736 cliente/(21866:27621): La respuesta al mensaje 'Terminar Pedido' fue: OK
+[INFO] 12:28:28:807 cliente/(5112:5112): Creada carpeta AFIP
+[INFO] 12:28:28:808 cliente/(5112:5112): Creada carpeta Files
+[INFO] 12:28:28:808 cliente/(5112:5112): Creada carpeta Restaurantes
+[INFO] 12:28:28:808 cliente/(5112:5112): Creada carpeta Recetas
+[INFO] 12:28:28:808 cliente/(5112:5112): Creada carpeta Blocks
+[INFO] 12:28:28:808 cliente/(5112:5112): Creada carpeta Metadata
+[INFO] 12:28:28:808 cliente/(5112:5112): Creado archivo metadata.AFIP
+[INFO] 12:28:28:809 cliente/(5112:5112): Datos agregados a metadata.AFIP
+[INFO] 12:28:28:874 cliente/(5112:5112): Bloques creados
+[INFO] 12:28:28:874 cliente/(5112:5112): Archivo de Bitmap creado
+[INFO] 12:28:28:874 cliente/(5112:5112): Leyendo Archivo de Bitmap
+[INFO] 12:28:28:874 cliente/(5112:5112): Bitmap cargado completamente
